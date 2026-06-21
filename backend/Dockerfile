@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir --upgrade pip && \
     pip install --no-cache-dir -r requirements.txt
 
 COPY backend/. ./
-COPY "Astram event data_anonymized - Astram event data_anonymizedb40ac87.csv" ./
+COPY ["Astram event data_anonymized - Astram event data_anonymizedb40ac87.csv", "./"]
 
 EXPOSE 8000
 
