@@ -11,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api import artifacts_router, copilot_router, simulator_router
 from app.core import data_loader as DL
+from app.core.config import settings
 
 
 app = FastAPI(
@@ -30,7 +31,23 @@ app.add_middleware(
 
 @app.on_event("startup")
 def _warm_caches() -> None:
-    """Force artifact preload so the first request is fast."""
+    """Ensure artifacts exist, then preload them so the first request is fast."""
+    required = [
+        "events_clean.parquet",
+        "fingerprint.json",
+        "cascade_edges.json",
+        "stations.json",
+        "audit.json",
+        "corridors.geojson",
+    ]
+    missing = [name for name in required if not (settings.artifacts_dir / name).exists()]
+
+    if missing:
+        print(f"[startup] Missing artifacts: {missing}; running pipeline...")
+        from pipeline.run_all import main as run_pipeline
+
+        run_pipeline()
+
     DL.fingerprint(); DL.cascade(); DL.stations(); DL.audit()
     DL.corridors_geojson(); DL.corridor_state(); DL.esi_calibration()
     DL.esi_model(); DL.events_df()
