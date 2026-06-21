@@ -5,7 +5,9 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 BACKEND_ROOT = Path(__file__).resolve().parents[2]
-PROJECT_ROOT = BACKEND_ROOT.parent
+PROJECT_ROOT = (
+    BACKEND_ROOT.parent if (BACKEND_ROOT.parent / "backend").exists() else BACKEND_ROOT
+)
 ARTIFACTS_DIR = BACKEND_ROOT / "artifacts"
 ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -13,8 +15,13 @@ ARTIFACTS_DIR.mkdir(parents=True, exist_ok=True)
 def _find_raw_csv() -> Path:
     candidates = [
         PROJECT_ROOT / "data" / "astram_events.csv",
+        BACKEND_ROOT / "data" / "astram_events.csv",
+        PROJECT_ROOT / "Astram event data_anonymized - Astram event data_anonymizedb40ac87.csv",
+        BACKEND_ROOT / "Astram event data_anonymized - Astram event data_anonymizedb40ac87.csv",
         *PROJECT_ROOT.glob("Astram event data_anonymized*.csv"),
+        *BACKEND_ROOT.glob("Astram event data_anonymized*.csv"),
         *PROJECT_ROOT.glob("data/Astram event data_anonymized*.csv"),
+        *BACKEND_ROOT.glob("data/Astram event data_anonymized*.csv"),
     ]
     for c in candidates:
         if c.exists():
