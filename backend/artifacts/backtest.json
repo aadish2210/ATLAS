@@ -1,0 +1,308 @@
+{
+  "params": {
+    "cutoff_hour": 12,
+    "K_values": [
+      5,
+      10,
+      15
+    ],
+    "n_days_evaluated": 151,
+    "n_stations": 54,
+    "cascade_prob_min": 0.1,
+    "ranker": "atlas = 1.0*base_rate + 1.2*morning + 0.9*cascade (all min-max normalized)"
+  },
+  "strategies": {
+    "prior": {
+      "k5": {
+        "precision": 0.293,
+        "recall": 0.191,
+        "f1": 0.231
+      },
+      "k10": {
+        "precision": 0.256,
+        "recall": 0.333,
+        "f1": 0.289
+      },
+      "k15": {
+        "precision": 0.239,
+        "recall": 0.467,
+        "f1": 0.316
+      }
+    },
+    "persistence": {
+      "k5": {
+        "precision": 0.216,
+        "recall": 0.141,
+        "f1": 0.17
+      },
+      "k10": {
+        "precision": 0.201,
+        "recall": 0.261,
+        "f1": 0.227
+      },
+      "k15": {
+        "precision": 0.187,
+        "recall": 0.365,
+        "f1": 0.247
+      }
+    },
+    "blend_no_cascade": {
+      "k5": {
+        "precision": 0.258,
+        "recall": 0.168,
+        "f1": 0.204
+      },
+      "k10": {
+        "precision": 0.236,
+        "recall": 0.308,
+        "f1": 0.268
+      },
+      "k15": {
+        "precision": 0.222,
+        "recall": 0.434,
+        "f1": 0.294
+      }
+    },
+    "atlas": {
+      "k5": {
+        "precision": 0.242,
+        "recall": 0.158,
+        "f1": 0.191
+      },
+      "k10": {
+        "precision": 0.227,
+        "recall": 0.296,
+        "f1": 0.257
+      },
+      "k15": {
+        "precision": 0.219,
+        "recall": 0.428,
+        "f1": 0.29
+      }
+    }
+  },
+  "cascade_discovery": {
+    "persistence": {
+      "precision": 0.101,
+      "recall": 0.312,
+      "f1": 0.153
+    },
+    "atlas": {
+      "precision": 0.173,
+      "recall": 0.532,
+      "f1": 0.261
+    }
+  },
+  "headline": {
+    "atlas_precision_at_10": 0.227,
+    "atlas_recall_at_10": 0.296,
+    "atlas_f1_at_10": 0.257,
+    "f1_lift_vs_best_baseline_at_10": -0.032,
+    "cascade_ablation_f1_lift_at_10": -0.011,
+    "discovery_recall_atlas": 0.532,
+    "discovery_recall_persistence": 0.312
+  },
+  "top_cascade_days": [
+    {
+      "date": "2024-03-29",
+      "n_morning": 52,
+      "n_afternoon": 61,
+      "new_hotspots": 13,
+      "cascade_caught": [
+        "Banaswadi",
+        "Halasur",
+        "Halasuru Gate",
+        "High ground",
+        "Madiwala",
+        "Peenya",
+        "Wilson Garden"
+      ],
+      "n_cascade_caught": 7
+    },
+    {
+      "date": "2024-04-03",
+      "n_morning": 47,
+      "n_afternoon": 54,
+      "new_hotspots": 10,
+      "cascade_caught": [
+        "Banaswadi",
+        "Byatarayanapura",
+        "Halasuru Gate",
+        "High ground",
+        "K.R. Pura",
+        "Peenya"
+      ],
+      "n_cascade_caught": 6
+    },
+    {
+      "date": "2024-04-06",
+      "n_morning": 54,
+      "n_afternoon": 87,
+      "new_hotspots": 13,
+      "cascade_caught": [
+        "Chamarajpet",
+        "Halasuru Gate",
+        "High ground",
+        "K.R. Pura",
+        "Madiwala"
+      ],
+      "n_cascade_caught": 5
+    },
+    {
+      "date": "2023-12-18",
+      "n_morning": 25,
+      "n_afternoon": 8,
+      "new_hotspots": 6,
+      "cascade_caught": [
+        "Ashok Nagar",
+        "Kamakshipalya",
+        "Madiwala",
+        "Yeshwanthpura"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2024-01-14",
+      "n_morning": 48,
+      "n_afternoon": 10,
+      "new_hotspots": 4,
+      "cascade_caught": [
+        "Halasuru Gate",
+        "High ground",
+        "No Police Station",
+        "Peenya"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2024-01-20",
+      "n_morning": 33,
+      "n_afternoon": 13,
+      "new_hotspots": 6,
+      "cascade_caught": [
+        "Hennuru",
+        "Kamakshipalya",
+        "Sadashivanagar",
+        "Yelahanka"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2024-03-09",
+      "n_morning": 33,
+      "n_afternoon": 37,
+      "new_hotspots": 9,
+      "cascade_caught": [
+        "Halasuru Gate",
+        "Jayanagara",
+        "Mico Layout",
+        "Sadashivanagar"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2024-04-05",
+      "n_morning": 39,
+      "n_afternoon": 55,
+      "new_hotspots": 11,
+      "cascade_caught": [
+        "J.P. Nagar",
+        "Kamakshipalya",
+        "Kodigehalli",
+        "Wilson Garden"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2024-04-07",
+      "n_morning": 74,
+      "n_afternoon": 21,
+      "new_hotspots": 4,
+      "cascade_caught": [
+        "J.P. Nagar",
+        "Jalahalli",
+        "Sheshadripuram",
+        "Yelahanka"
+      ],
+      "n_cascade_caught": 4
+    },
+    {
+      "date": "2023-11-18",
+      "n_morning": 32,
+      "n_afternoon": 11,
+      "new_hotspots": 7,
+      "cascade_caught": [
+        "No Police Station",
+        "Yelahanka",
+        "Yeshwanthpura"
+      ],
+      "n_cascade_caught": 3
+    },
+    {
+      "date": "2023-11-20",
+      "n_morning": 28,
+      "n_afternoon": 5,
+      "new_hotspots": 3,
+      "cascade_caught": [
+        "HAL Old Airport",
+        "Madiwala",
+        "No Police Station"
+      ],
+      "n_cascade_caught": 3
+    },
+    {
+      "date": "2023-11-23",
+      "n_morning": 36,
+      "n_afternoon": 11,
+      "new_hotspots": 3,
+      "cascade_caught": [
+        "High ground",
+        "K.R. Pura",
+        "Peenya"
+      ],
+      "n_cascade_caught": 3
+    },
+    {
+      "date": "2023-12-03",
+      "n_morning": 46,
+      "n_afternoon": 12,
+      "new_hotspots": 4,
+      "cascade_caught": [
+        "K.R. Pura",
+        "Madiwala",
+        "Whitefield"
+      ],
+      "n_cascade_caught": 3
+    },
+    {
+      "date": "2023-12-17",
+      "n_morning": 46,
+      "n_afternoon": 12,
+      "new_hotspots": 5,
+      "cascade_caught": [
+        "K.R. Pura",
+        "Kamakshipalya",
+        "No Police Station"
+      ],
+      "n_cascade_caught": 3
+    },
+    {
+      "date": "2023-12-28",
+      "n_morning": 40,
+      "n_afternoon": 12,
+      "new_hotspots": 4,
+      "cascade_caught": [
+        "High ground",
+        "Madiwala",
+        "Yelahanka"
+      ],
+      "n_cascade_caught": 3
+    }
+  ],
+  "notes": [
+    "Equal-budget ranked comparison: precision@K / recall@K at identical K.",
+    "ATLAS blends base rate + today's morning + cascade propagation.",
+    "cascade_ablation = ATLAS minus the cascade term; the F1 gap is the cascade graph's measurable lift.",
+    "discovery: NEW afternoon hotspots with no morning activity \u2014 persistence is structurally blind here."
+  ]
+}

@@ -1,0 +1,4530 @@
+{
+  "key": "police_station",
+  "radius_km": 5.0,
+  "window_min": 60,
+  "halflife_min": 30.0,
+  "null_mean_lift": 1.2752312284812586,
+  "null_std_lift": 0.04409772583133792,
+  "nodes": [
+    {
+      "id": "Adugodi",
+      "lat": 12.933851865333335,
+      "lng": 77.6194345375,
+      "count": 120
+    },
+    {
+      "id": "Ashok Nagar",
+      "lat": 12.96233147797619,
+      "lng": 77.60982010589285,
+      "count": 168
+    },
+    {
+      "id": "Banashankari",
+      "lat": 12.923206667058826,
+      "lng": 77.55685243441177,
+      "count": 102
+    },
+    {
+      "id": "Banaswadi",
+      "lat": 13.000783136528925,
+      "lng": 77.65670869586776,
+      "count": 242
+    },
+    {
+      "id": "Basavanagudi",
+      "lat": 12.942620511702131,
+      "lng": 77.57138083638297,
+      "count": 47
+    },
+    {
+      "id": "Bellandur",
+      "lat": 12.91906079631579,
+      "lng": 77.6697793548421,
+      "count": 95
+    },
+    {
+      "id": "Byatarayanapura",
+      "lat": 12.949366455,
+      "lng": 77.53425883135137,
+      "count": 296
+    },
+    {
+      "id": "Chamarajpet",
+      "lat": 12.965557016542553,
+      "lng": 77.56366912851064,
+      "count": 188
+    },
+    {
+      "id": "Chikkabanavara",
+      "lat": 13.048084843504276,
+      "lng": 77.50626080239316,
+      "count": 117
+    },
+    {
+      "id": "Chikkajala",
+      "lat": 13.164904378472222,
+      "lng": 77.64050909833333,
+      "count": 72
+    },
+    {
+      "id": "City Market",
+      "lat": 12.961732052222223,
+      "lng": 77.57835003444444,
+      "count": 27
+    },
+    {
+      "id": "Cubbon Park",
+      "lat": 12.978168624950982,
+      "lng": 77.59555243857844,
+      "count": 204
+    },
+    {
+      "id": "Devanahalli Airport",
+      "lat": 13.221806717619044,
+      "lng": 77.69240000095238,
+      "count": 21
+    },
+    {
+      "id": "Electronic City",
+      "lat": 12.85140812801653,
+      "lng": 77.66464176429751,
+      "count": 121
+    },
+    {
+      "id": "HAL Old Airport",
+      "lat": 12.953047783870058,
+      "lng": 77.69717363737288,
+      "count": 354
+    },
+    {
+      "id": "HSR Layout",
+      "lat": 12.910225844827588,
+      "lng": 77.6316069071552,
+      "count": 116
+    },
+    {
+      "id": "Halasur",
+      "lat": 12.969269432413794,
+      "lng": 77.62588046689656,
+      "count": 116
+    },
+    {
+      "id": "Halasuru Gate",
+      "lat": 12.967166316190475,
+      "lng": 77.58727440955782,
+      "count": 294
+    },
+    {
+      "id": "Hebbala",
+      "lat": 13.04402546637037,
+      "lng": 77.59572280896296,
+      "count": 135
+    },
+    {
+      "id": "Hennuru",
+      "lat": 13.044606077545788,
+      "lng": 77.6333875838828,
+      "count": 273
+    },
+    {
+      "id": "High ground",
+      "lat": 12.988777518777775,
+      "lng": 77.58560112794444,
+      "count": 180
+    },
+    {
+      "id": "Hulimavu",
+      "lat": 12.872833716982758,
+      "lng": 77.6045444311207,
+      "count": 116
+    },
+    {
+      "id": "J.P. Nagar",
+      "lat": 12.903281966935484,
+      "lng": 77.59022278629031,
+      "count": 124
+    },
+    {
+      "id": "Jalahalli",
+      "lat": 13.043467986288658,
+      "lng": 77.54870985489691,
+      "count": 194
+    },
+    {
+      "id": "Jayanagara",
+      "lat": 12.92092359340909,
+      "lng": 77.58770979301136,
+      "count": 176
+    },
+    {
+      "id": "Jeevanbheemanagar",
+      "lat": 12.973169835280002,
+      "lng": 77.64559054384,
+      "count": 125
+    },
+    {
+      "id": "Jnanabharathi",
+      "lat": 12.960835579389313,
+      "lng": 77.50778073435114,
+      "count": 131
+    },
+    {
+      "id": "K.G. Halli",
+      "lat": 13.030608808333334,
+      "lng": 77.62033612777778,
+      "count": 72
+    },
+    {
+      "id": "K.R. Pura",
+      "lat": 13.016152656973684,
+      "lng": 77.70573023122806,
+      "count": 228
+    },
+    {
+      "id": "K.S. Layout",
+      "lat": 12.909227646162797,
+      "lng": 77.55790983011629,
+      "count": 86
+    },
+    {
+      "id": "Kamakshipalya",
+      "lat": 12.987768709406392,
+      "lng": 77.50831538794522,
+      "count": 219
+    },
+    {
+      "id": "Kengeri",
+      "lat": 12.913604197000002,
+      "lng": 77.4852449295,
+      "count": 40
+    },
+    {
+      "id": "Kodigehalli",
+      "lat": 13.04709013590406,
+      "lng": 77.58578318132842,
+      "count": 271
+    },
+    {
+      "id": "Madiwala",
+      "lat": 12.917823054863389,
+      "lng": 77.62138875519126,
+      "count": 183
+    },
+    {
+      "id": "Magadi Road",
+      "lat": 12.973660142086331,
+      "lng": 77.55649520294965,
+      "count": 139
+    },
+    {
+      "id": "Mahadevapura",
+      "lat": 12.992782356750002,
+      "lng": 77.71789089058333,
+      "count": 120
+    },
+    {
+      "id": "Malleshwaram",
+      "lat": 13.005118298734176,
+      "lng": 77.56187007215189,
+      "count": 79
+    },
+    {
+      "id": "Mico Layout",
+      "lat": 12.91339087112069,
+      "lng": 77.60488569698273,
+      "count": 116
+    },
+    {
+      "id": "No Police Station",
+      "lat": 13.03573584826291,
+      "lng": 77.50087861361503,
+      "count": 213
+    },
+    {
+      "id": "Peenya",
+      "lat": 13.038821935955056,
+      "lng": 77.51459824264045,
+      "count": 178
+    },
+    {
+      "id": "Pulikeshinagar(F.Town)",
+      "lat": 12.996772467101449,
+      "lng": 77.61430740913043,
+      "count": 69
+    },
+    {
+      "id": "R.T. Nagar",
+      "lat": 13.015500320799998,
+      "lng": 77.58958364160002,
+      "count": 125
+    },
+    {
+      "id": "Rajajinagar",
+      "lat": 13.0050000254902,
+      "lng": 77.54090340882351,
+      "count": 102
+    },
+    {
+      "id": "Sadashivanagar",
+      "lat": 13.010333613720931,
+      "lng": 77.57970774418605,
+      "count": 301
+    },
+    {
+      "id": "Sheshadripuram",
+      "lat": 12.986802289830509,
+      "lng": 77.57270779152543,
+      "count": 118
+    },
+    {
+      "id": "Shivajinagar",
+      "lat": 12.983046825842695,
+      "lng": 77.60235896292134,
+      "count": 89
+    },
+    {
+      "id": "Thalagattapura",
+      "lat": 12.872427980681818,
+      "lng": 77.54894988272727,
+      "count": 44
+    },
+    {
+      "id": "Upparpet",
+      "lat": 12.97680461833333,
+      "lng": 77.577189205,
+      "count": 60
+    },
+    {
+      "id": "V.V.Puram (C.Pet)",
+      "lat": 12.958232068648647,
+      "lng": 77.57295234567569,
+      "count": 37
+    },
+    {
+      "id": "Vijayanagara",
+      "lat": 12.97928141137931,
+      "lng": 77.5421877913793,
+      "count": 58
+    },
+    {
+      "id": "Whitefield",
+      "lat": 12.950689941843576,
+      "lng": 77.74079417670391,
+      "count": 179
+    },
+    {
+      "id": "Wilson Garden",
+      "lat": 12.947583635142859,
+      "lng": 77.59252780209523,
+      "count": 105
+    },
+    {
+      "id": "Yelahanka",
+      "lat": 13.101418912122016,
+      "lng": 77.59602580867374,
+      "count": 377
+    },
+    {
+      "id": "Yeshwanthpura",
+      "lat": 13.026194803189965,
+      "lng": 77.54479660318998,
+      "count": 279
+    }
+  ],
+  "edges": [
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "High ground",
+      "prob": 0.6864,
+      "lift": 30.661,
+      "delay_min": 19.0,
+      "p_value": 0.0,
+      "weight": 47.358
+    },
+    {
+      "from": "Adugodi",
+      "to": "Madiwala",
+      "prob": 0.4671,
+      "lift": 20.524,
+      "delay_min": 24.7,
+      "p_value": 0.0,
+      "weight": 56.051
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "J.P. Nagar",
+      "prob": 0.3446,
+      "lift": 22.347,
+      "delay_min": 10.3,
+      "p_value": 0.0,
+      "weight": 16.197
+    },
+    {
+      "from": "Hulimavu",
+      "to": "Thalagattapura",
+      "prob": 0.3413,
+      "lift": 62.372,
+      "delay_min": 6.7,
+      "p_value": 0.0,
+      "weight": 39.591
+    },
+    {
+      "from": "High ground",
+      "to": "Cubbon Park",
+      "prob": 0.3148,
+      "lift": 12.41,
+      "delay_min": 11.4,
+      "p_value": 0.0,
+      "weight": 56.673
+    },
+    {
+      "from": "Thalagattapura",
+      "to": "Hulimavu",
+      "prob": 0.3012,
+      "lift": 20.881,
+      "delay_min": 14.4,
+      "p_value": 0.0,
+      "weight": 13.254
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Cubbon Park",
+      "prob": 0.2985,
+      "lift": 11.765,
+      "delay_min": 19.4,
+      "p_value": 0.0,
+      "weight": 20.594
+    },
+    {
+      "from": "City Market",
+      "to": "High ground",
+      "prob": 0.2852,
+      "lift": 12.74,
+      "delay_min": 14.6,
+      "p_value": 0.0,
+      "weight": 7.7
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Jayanagara",
+      "prob": 0.2633,
+      "lift": 12.031,
+      "delay_min": 20.7,
+      "p_value": 0.0,
+      "weight": 32.654
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "High ground",
+      "prob": 0.2513,
+      "lift": 11.226,
+      "delay_min": 15.1,
+      "p_value": 0.0,
+      "weight": 11.811
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Hulimavu",
+      "prob": 0.249,
+      "lift": 17.259,
+      "delay_min": 8.3,
+      "p_value": 0.0,
+      "weight": 30.874
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Mico Layout",
+      "prob": 0.249,
+      "lift": 17.259,
+      "delay_min": 19.0,
+      "p_value": 0.0,
+      "weight": 30.873
+    },
+    {
+      "from": "City Market",
+      "to": "Chamarajpet",
+      "prob": 0.2474,
+      "lift": 10.583,
+      "delay_min": 23.8,
+      "p_value": 0.0,
+      "weight": 6.681
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "High ground",
+      "prob": 0.247,
+      "lift": 11.033,
+      "delay_min": 18.9,
+      "p_value": 0.0,
+      "weight": 29.144
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Halasuru Gate",
+      "prob": 0.2423,
+      "lift": 6.627,
+      "delay_min": 19.9,
+      "p_value": 0.0,
+      "weight": 45.55
+    },
+    {
+      "from": "City Market",
+      "to": "Cubbon Park",
+      "prob": 0.2417,
+      "lift": 9.529,
+      "delay_min": 20.1,
+      "p_value": 0.0,
+      "weight": 6.527
+    },
+    {
+      "from": "Madiwala",
+      "to": "J.P. Nagar",
+      "prob": 0.236,
+      "lift": 15.303,
+      "delay_min": 17.5,
+      "p_value": 0.0,
+      "weight": 43.186
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "High ground",
+      "prob": 0.2302,
+      "lift": 10.285,
+      "delay_min": 20.3,
+      "p_value": 0.0,
+      "weight": 28.779
+    },
+    {
+      "from": "Hulimavu",
+      "to": "J.P. Nagar",
+      "prob": 0.2274,
+      "lift": 14.748,
+      "delay_min": 8.4,
+      "p_value": 0.0,
+      "weight": 26.381
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "High ground",
+      "prob": 0.2157,
+      "lift": 9.634,
+      "delay_min": 17.9,
+      "p_value": 0.0,
+      "weight": 22.645
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Halasuru Gate",
+      "prob": 0.2136,
+      "lift": 5.841,
+      "delay_min": 16.8,
+      "p_value": 0.0,
+      "weight": 22.426
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Cubbon Park",
+      "prob": 0.2115,
+      "lift": 8.337,
+      "delay_min": 14.9,
+      "p_value": 0.0,
+      "weight": 24.959
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Cubbon Park",
+      "prob": 0.2095,
+      "lift": 8.259,
+      "delay_min": 16.5,
+      "p_value": 0.0,
+      "weight": 9.848
+    },
+    {
+      "from": "High ground",
+      "to": "Chamarajpet",
+      "prob": 0.1994,
+      "lift": 8.526,
+      "delay_min": 25.6,
+      "p_value": 0.0,
+      "weight": 35.883
+    },
+    {
+      "from": "Magadi Road",
+      "to": "High ground",
+      "prob": 0.1958,
+      "lift": 8.748,
+      "delay_min": 27.3,
+      "p_value": 0.0,
+      "weight": 27.218
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.1955,
+      "lift": 12.579,
+      "delay_min": 12.4,
+      "p_value": 0.0,
+      "weight": 13.492
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "High ground",
+      "prob": 0.1947,
+      "lift": 8.696,
+      "delay_min": 23.1,
+      "p_value": 0.0,
+      "weight": 36.595
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Halasuru Gate",
+      "prob": 0.193,
+      "lift": 5.28,
+      "delay_min": 30.9,
+      "p_value": 0.0,
+      "weight": 33.975
+    },
+    {
+      "from": "Mico Layout",
+      "to": "J.P. Nagar",
+      "prob": 0.1928,
+      "lift": 12.502,
+      "delay_min": 23.8,
+      "p_value": 0.0,
+      "weight": 22.364
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Madiwala",
+      "prob": 0.1927,
+      "lift": 8.467,
+      "delay_min": 19.9,
+      "p_value": 0.0,
+      "weight": 23.894
+    },
+    {
+      "from": "Upparpet",
+      "to": "High ground",
+      "prob": 0.1872,
+      "lift": 8.364,
+      "delay_min": 16.0,
+      "p_value": 0.0,
+      "weight": 11.234
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Halasuru Gate",
+      "prob": 0.1859,
+      "lift": 5.084,
+      "delay_min": 19.8,
+      "p_value": 0.0,
+      "weight": 37.921
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Ashok Nagar",
+      "prob": 0.1858,
+      "lift": 8.893,
+      "delay_min": 20.5,
+      "p_value": 0.0,
+      "weight": 12.821
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Halasuru Gate",
+      "prob": 0.1845,
+      "lift": 5.047,
+      "delay_min": 20.0,
+      "p_value": 0.0,
+      "weight": 31.003
+    },
+    {
+      "from": "Madiwala",
+      "to": "Adugodi",
+      "prob": 0.1829,
+      "lift": 12.257,
+      "delay_min": 28.7,
+      "p_value": 0.0,
+      "weight": 33.475
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Halasur",
+      "prob": 0.1828,
+      "lift": 12.674,
+      "delay_min": 27.7,
+      "p_value": 0.0,
+      "weight": 12.616
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Ashok Nagar",
+      "prob": 0.18,
+      "lift": 8.616,
+      "delay_min": 27.1,
+      "p_value": 0.0,
+      "weight": 31.684
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Cubbon Park",
+      "prob": 0.1792,
+      "lift": 7.065,
+      "delay_min": 19.5,
+      "p_value": 0.0,
+      "weight": 33.698
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "High ground",
+      "prob": 0.1785,
+      "lift": 7.973,
+      "delay_min": 24.2,
+      "p_value": 0.0,
+      "weight": 36.409
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Chamarajpet",
+      "prob": 0.1708,
+      "lift": 7.307,
+      "delay_min": 31.0,
+      "p_value": 0.0,
+      "weight": 8.029
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Wilson Garden",
+      "prob": 0.1696,
+      "lift": 12.985,
+      "delay_min": 22.7,
+      "p_value": 0.0,
+      "weight": 21.026
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Cubbon Park",
+      "prob": 0.1675,
+      "lift": 6.601,
+      "delay_min": 16.6,
+      "p_value": 0.0,
+      "weight": 20.933
+    },
+    {
+      "from": "City Market",
+      "to": "Wilson Garden",
+      "prob": 0.1635,
+      "lift": 12.519,
+      "delay_min": 12.4,
+      "p_value": 0.0,
+      "weight": 4.414
+    },
+    {
+      "from": "High ground",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.161,
+      "lift": 18.761,
+      "delay_min": 25.8,
+      "p_value": 0.0,
+      "weight": 28.978
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Chamarajpet",
+      "prob": 0.1603,
+      "lift": 6.857,
+      "delay_min": 32.3,
+      "p_value": 0.0,
+      "weight": 9.298
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Madiwala",
+      "prob": 0.1562,
+      "lift": 6.863,
+      "delay_min": 16.3,
+      "p_value": 0.0,
+      "weight": 18.118
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Jayanagara",
+      "prob": 0.1552,
+      "lift": 7.092,
+      "delay_min": 33.4,
+      "p_value": 0.0,
+      "weight": 7.296
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Chamarajpet",
+      "prob": 0.1539,
+      "lift": 6.584,
+      "delay_min": 23.2,
+      "p_value": 0.0,
+      "weight": 16.164
+    },
+    {
+      "from": "City Market",
+      "to": "Ashok Nagar",
+      "prob": 0.1524,
+      "lift": 7.294,
+      "delay_min": 11.1,
+      "p_value": 0.0,
+      "weight": 4.114
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Wilson Garden",
+      "prob": 0.1519,
+      "lift": 11.632,
+      "delay_min": 23.2,
+      "p_value": 0.0,
+      "weight": 28.555
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Byatarayanapura",
+      "prob": 0.1513,
+      "lift": 4.11,
+      "delay_min": 22.9,
+      "p_value": 0.0,
+      "weight": 7.111
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Halasuru Gate",
+      "prob": 0.1512,
+      "lift": 4.135,
+      "delay_min": 17.7,
+      "p_value": 0.0,
+      "weight": 17.841
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Cubbon Park",
+      "prob": 0.1504,
+      "lift": 5.927,
+      "delay_min": 19.7,
+      "p_value": 0.0,
+      "weight": 25.264
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Sadashivanagar",
+      "prob": 0.1479,
+      "lift": 3.952,
+      "delay_min": 26.3,
+      "p_value": 0.0,
+      "weight": 18.491
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Hennuru",
+      "prob": 0.1471,
+      "lift": 4.333,
+      "delay_min": 23.9,
+      "p_value": 0.0,
+      "weight": 10.592
+    },
+    {
+      "from": "Hulimavu",
+      "to": "Madiwala",
+      "prob": 0.1448,
+      "lift": 6.361,
+      "delay_min": 26.5,
+      "p_value": 0.0,
+      "weight": 16.792
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Cubbon Park",
+      "prob": 0.1448,
+      "lift": 5.707,
+      "delay_min": 17.3,
+      "p_value": 0.0,
+      "weight": 15.202
+    },
+    {
+      "from": "High ground",
+      "to": "Halasuru Gate",
+      "prob": 0.144,
+      "lift": 3.938,
+      "delay_min": 25.8,
+      "p_value": 0.0,
+      "weight": 25.92
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Sadashivanagar",
+      "prob": 0.144,
+      "lift": 3.846,
+      "delay_min": 25.4,
+      "p_value": 0.0,
+      "weight": 11.373
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Chamarajpet",
+      "prob": 0.1438,
+      "lift": 6.151,
+      "delay_min": 20.3,
+      "p_value": 0.0,
+      "weight": 5.321
+    },
+    {
+      "from": "Jayanagara",
+      "to": "J.P. Nagar",
+      "prob": 0.1424,
+      "lift": 9.234,
+      "delay_min": 16.0,
+      "p_value": 0.0,
+      "weight": 25.062
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Byatarayanapura",
+      "prob": 0.1401,
+      "lift": 3.807,
+      "delay_min": 30.7,
+      "p_value": 0.0,
+      "weight": 26.348
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Sheshadripuram",
+      "prob": 0.14,
+      "lift": 9.542,
+      "delay_min": 17.5,
+      "p_value": 0.0,
+      "weight": 26.325
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Byatarayanapura",
+      "prob": 0.1398,
+      "lift": 3.797,
+      "delay_min": 30.8,
+      "p_value": 0.0,
+      "weight": 5.172
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Jayanagara",
+      "prob": 0.134,
+      "lift": 6.122,
+      "delay_min": 19.6,
+      "p_value": 0.0,
+      "weight": 15.544
+    },
+    {
+      "from": "High ground",
+      "to": "Sadashivanagar",
+      "prob": 0.1299,
+      "lift": 3.47,
+      "delay_min": 28.2,
+      "p_value": 0.0,
+      "weight": 23.378
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "High ground",
+      "prob": 0.129,
+      "lift": 5.762,
+      "delay_min": 26.5,
+      "p_value": 0.0,
+      "weight": 4.772
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Byatarayanapura",
+      "prob": 0.1282,
+      "lift": 3.481,
+      "delay_min": 24.9,
+      "p_value": 0.0,
+      "weight": 17.813
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Halasuru Gate",
+      "prob": 0.127,
+      "lift": 3.473,
+      "delay_min": 23.6,
+      "p_value": 0.0,
+      "weight": 5.968
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Sheshadripuram",
+      "prob": 0.1259,
+      "lift": 8.576,
+      "delay_min": 26.3,
+      "p_value": 0.0,
+      "weight": 15.732
+    },
+    {
+      "from": "Hebbala",
+      "to": "Kodigehalli",
+      "prob": 0.1257,
+      "lift": 3.729,
+      "delay_min": 23.8,
+      "p_value": 0.0,
+      "weight": 16.965
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Cubbon Park",
+      "prob": 0.1253,
+      "lift": 4.938,
+      "delay_min": 17.2,
+      "p_value": 0.0,
+      "weight": 4.635
+    },
+    {
+      "from": "High ground",
+      "to": "Magadi Road",
+      "prob": 0.1248,
+      "lift": 7.217,
+      "delay_min": 19.5,
+      "p_value": 0.0,
+      "weight": 22.458
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Jayanagara",
+      "prob": 0.1245,
+      "lift": 5.688,
+      "delay_min": 13.7,
+      "p_value": 0.0,
+      "weight": 13.072
+    },
+    {
+      "from": "Madiwala",
+      "to": "HSR Layout",
+      "prob": 0.124,
+      "lift": 8.598,
+      "delay_min": 19.2,
+      "p_value": 0.0,
+      "weight": 22.7
+    },
+    {
+      "from": "Halasur",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.1216,
+      "lift": 14.166,
+      "delay_min": 8.9,
+      "p_value": 0.0,
+      "weight": 14.1
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Sheshadripuram",
+      "prob": 0.1211,
+      "lift": 8.254,
+      "delay_min": 10.3,
+      "p_value": 0.0,
+      "weight": 4.481
+    },
+    {
+      "from": "Mico Layout",
+      "to": "HSR Layout",
+      "prob": 0.121,
+      "lift": 8.386,
+      "delay_min": 26.4,
+      "p_value": 0.0,
+      "weight": 14.033
+    },
+    {
+      "from": "Halasur",
+      "to": "Cubbon Park",
+      "prob": 0.1188,
+      "lift": 4.684,
+      "delay_min": 24.4,
+      "p_value": 0.0,
+      "weight": 13.784
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Cubbon Park",
+      "prob": 0.1183,
+      "lift": 4.664,
+      "delay_min": 19.8,
+      "p_value": 0.0,
+      "weight": 34.786
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Chamarajpet",
+      "prob": 0.1179,
+      "lift": 5.041,
+      "delay_min": 26.6,
+      "p_value": 0.0,
+      "weight": 24.045
+    },
+    {
+      "from": "Upparpet",
+      "to": "Ashok Nagar",
+      "prob": 0.1175,
+      "lift": 5.625,
+      "delay_min": 22.1,
+      "p_value": 0.0,
+      "weight": 7.052
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "HSR Layout",
+      "prob": 0.1167,
+      "lift": 8.093,
+      "delay_min": 25.1,
+      "p_value": 0.0,
+      "weight": 14.477
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Adugodi",
+      "prob": 0.1158,
+      "lift": 7.757,
+      "delay_min": 28.3,
+      "p_value": 0.0,
+      "weight": 13.429
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Wilson Garden",
+      "prob": 0.1146,
+      "lift": 8.774,
+      "delay_min": 23.1,
+      "p_value": 0.0,
+      "weight": 13.291
+    },
+    {
+      "from": "High ground",
+      "to": "Wilson Garden",
+      "prob": 0.114,
+      "lift": 8.732,
+      "delay_min": 18.5,
+      "p_value": 0.0,
+      "weight": 20.524
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Sheshadripuram",
+      "prob": 0.1122,
+      "lift": 7.647,
+      "delay_min": 20.1,
+      "p_value": 0.0,
+      "weight": 15.598
+    },
+    {
+      "from": "Halasur",
+      "to": "High ground",
+      "prob": 0.1114,
+      "lift": 4.976,
+      "delay_min": 18.9,
+      "p_value": 0.0,
+      "weight": 12.92
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Magadi Road",
+      "prob": 0.1113,
+      "lift": 6.441,
+      "delay_min": 17.9,
+      "p_value": 0.0,
+      "weight": 5.233
+    },
+    {
+      "from": "Halasur",
+      "to": "Wilson Garden",
+      "prob": 0.1103,
+      "lift": 8.448,
+      "delay_min": 16.4,
+      "p_value": 0.0,
+      "weight": 12.797
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Wilson Garden",
+      "prob": 0.1094,
+      "lift": 8.381,
+      "delay_min": 24.0,
+      "p_value": 0.0,
+      "weight": 18.386
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "High ground",
+      "prob": 0.1092,
+      "lift": 4.877,
+      "delay_min": 24.7,
+      "p_value": 0.0,
+      "weight": 32.094
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Basavanagudi",
+      "prob": 0.1091,
+      "lift": 18.663,
+      "delay_min": 19.6,
+      "p_value": 0.0,
+      "weight": 11.454
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.109,
+      "lift": 7.012,
+      "delay_min": 17.9,
+      "p_value": 0.0,
+      "weight": 18.313
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "High ground",
+      "prob": 0.1078,
+      "lift": 4.816,
+      "delay_min": 28.5,
+      "p_value": 0.0,
+      "weight": 18.112
+    },
+    {
+      "from": "Adugodi",
+      "to": "J.P. Nagar",
+      "prob": 0.1068,
+      "lift": 6.926,
+      "delay_min": 23.8,
+      "p_value": 0.0,
+      "weight": 12.817
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Yeshwanthpura",
+      "prob": 0.1049,
+      "lift": 3.025,
+      "delay_min": 24.9,
+      "p_value": 0.0,
+      "weight": 10.705
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Madiwala",
+      "prob": 0.1044,
+      "lift": 4.589,
+      "delay_min": 24.4,
+      "p_value": 0.0,
+      "weight": 12.116
+    },
+    {
+      "from": "Halasur",
+      "to": "Halasuru Gate",
+      "prob": 0.1034,
+      "lift": 2.829,
+      "delay_min": 30.3,
+      "p_value": 0.0,
+      "weight": 12.0
+    },
+    {
+      "from": "City Market",
+      "to": "Halasuru Gate",
+      "prob": 0.1025,
+      "lift": 2.802,
+      "delay_min": 43.6,
+      "p_value": 0.0,
+      "weight": 2.766
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Ashok Nagar",
+      "prob": 0.1023,
+      "lift": 4.897,
+      "delay_min": 22.5,
+      "p_value": 0.0,
+      "weight": 10.742
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Halasuru Gate",
+      "prob": 0.1021,
+      "lift": 2.793,
+      "delay_min": 26.8,
+      "p_value": 0.0,
+      "weight": 3.779
+    },
+    {
+      "from": "Halasur",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.1015,
+      "lift": 6.526,
+      "delay_min": 18.5,
+      "p_value": 0.0,
+      "weight": 11.768
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Yeshwanthpura",
+      "prob": 0.1013,
+      "lift": 2.918,
+      "delay_min": 33.5,
+      "p_value": 0.0,
+      "weight": 7.999
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Sadashivanagar",
+      "prob": 0.1011,
+      "lift": 2.702,
+      "delay_min": 22.8,
+      "p_value": 0.0,
+      "weight": 11.936
+    },
+    {
+      "from": "High ground",
+      "to": "Sheshadripuram",
+      "prob": 0.1009,
+      "lift": 6.877,
+      "delay_min": 23.1,
+      "p_value": 0.0,
+      "weight": 18.166
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.1003,
+      "lift": 11.694,
+      "delay_min": 15.5,
+      "p_value": 0.0,
+      "weight": 11.841
+    },
+    {
+      "from": "Madiwala",
+      "to": "Jayanagara",
+      "prob": 0.0993,
+      "lift": 4.535,
+      "delay_min": 22.2,
+      "p_value": 0.0,
+      "weight": 18.167
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Magadi Road",
+      "prob": 0.0988,
+      "lift": 5.714,
+      "delay_min": 22.8,
+      "p_value": 0.0,
+      "weight": 18.571
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Halasur",
+      "prob": 0.0984,
+      "lift": 6.818,
+      "delay_min": 19.1,
+      "p_value": 0.0,
+      "weight": 16.523
+    },
+    {
+      "from": "Upparpet",
+      "to": "Cubbon Park",
+      "prob": 0.0983,
+      "lift": 3.874,
+      "delay_min": 21.9,
+      "p_value": 0.0,
+      "weight": 5.896
+    },
+    {
+      "from": "HSR Layout",
+      "to": "J.P. Nagar",
+      "prob": 0.0979,
+      "lift": 6.348,
+      "delay_min": 21.3,
+      "p_value": 0.0,
+      "weight": 11.355
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Chamarajpet",
+      "prob": 0.0979,
+      "lift": 4.188,
+      "delay_min": 23.9,
+      "p_value": 0.0,
+      "weight": 13.611
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0974,
+      "lift": 11.35,
+      "delay_min": 23.8,
+      "p_value": 0.0,
+      "weight": 12.174
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "Halasur",
+      "prob": 0.0962,
+      "lift": 6.669,
+      "delay_min": 22.1,
+      "p_value": 0.0,
+      "weight": 12.027
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "High ground",
+      "prob": 0.0953,
+      "lift": 4.257,
+      "delay_min": 21.7,
+      "p_value": 0.0,
+      "weight": 7.528
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "J.P. Nagar",
+      "prob": 0.0951,
+      "lift": 6.165,
+      "delay_min": 21.4,
+      "p_value": 0.0,
+      "weight": 9.983
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Mico Layout",
+      "prob": 0.0944,
+      "lift": 6.545,
+      "delay_min": 23.3,
+      "p_value": 0.0,
+      "weight": 9.914
+    },
+    {
+      "from": "Upparpet",
+      "to": "Chamarajpet",
+      "prob": 0.0943,
+      "lift": 4.033,
+      "delay_min": 29.7,
+      "p_value": 0.0,
+      "weight": 5.657
+    },
+    {
+      "from": "Mahadevapura",
+      "to": "K.R. Pura",
+      "prob": 0.0934,
+      "lift": 3.293,
+      "delay_min": 20.3,
+      "p_value": 0.0,
+      "weight": 11.206
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0922,
+      "lift": 10.743,
+      "delay_min": 18.9,
+      "p_value": 0.0,
+      "weight": 11.523
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Ashok Nagar",
+      "prob": 0.0917,
+      "lift": 4.389,
+      "delay_min": 22.2,
+      "p_value": 0.0,
+      "weight": 3.393
+    },
+    {
+      "from": "City Market",
+      "to": "Magadi Road",
+      "prob": 0.0915,
+      "lift": 5.295,
+      "delay_min": 27.8,
+      "p_value": 0.0,
+      "weight": 2.471
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "HSR Layout",
+      "prob": 0.0914,
+      "lift": 6.334,
+      "delay_min": 26.6,
+      "p_value": 0.0,
+      "weight": 9.595
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "High ground",
+      "prob": 0.0909,
+      "lift": 4.063,
+      "delay_min": 25.2,
+      "p_value": 0.0,
+      "weight": 6.548
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Sadashivanagar",
+      "prob": 0.0906,
+      "lift": 2.421,
+      "delay_min": 26.2,
+      "p_value": 0.0,
+      "weight": 18.486
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Chamarajpet",
+      "prob": 0.0885,
+      "lift": 3.787,
+      "delay_min": 26.6,
+      "p_value": 0.0,
+      "weight": 26.03
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "Ashok Nagar",
+      "prob": 0.0879,
+      "lift": 4.209,
+      "delay_min": 13.3,
+      "p_value": 0.0,
+      "weight": 10.993
+    },
+    {
+      "from": "Bellandur",
+      "to": "HAL Old Airport",
+      "prob": 0.0874,
+      "lift": 1.985,
+      "delay_min": 28.2,
+      "p_value": 0.0,
+      "weight": 8.3
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Wilson Garden",
+      "prob": 0.0873,
+      "lift": 6.687,
+      "delay_min": 31.8,
+      "p_value": 0.0,
+      "weight": 4.104
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Adugodi",
+      "prob": 0.0872,
+      "lift": 5.846,
+      "delay_min": 25.9,
+      "p_value": 0.0,
+      "weight": 10.121
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Byatarayanapura",
+      "prob": 0.0872,
+      "lift": 2.37,
+      "delay_min": 26.9,
+      "p_value": 0.0,
+      "weight": 5.059
+    },
+    {
+      "from": "Halasur",
+      "to": "Ashok Nagar",
+      "prob": 0.087,
+      "lift": 4.164,
+      "delay_min": 22.8,
+      "p_value": 0.0,
+      "weight": 10.092
+    },
+    {
+      "from": "Adugodi",
+      "to": "Jayanagara",
+      "prob": 0.0868,
+      "lift": 3.965,
+      "delay_min": 10.0,
+      "p_value": 0.0,
+      "weight": 10.414
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0867,
+      "lift": 10.098,
+      "delay_min": 27.4,
+      "p_value": 0.0,
+      "weight": 17.677
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "High ground",
+      "prob": 0.0862,
+      "lift": 3.852,
+      "delay_min": 17.0,
+      "p_value": 0.0,
+      "weight": 5.001
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Yeshwanthpura",
+      "prob": 0.0856,
+      "lift": 2.466,
+      "delay_min": 33.2,
+      "p_value": 0.0,
+      "weight": 10.696
+    },
+    {
+      "from": "Upparpet",
+      "to": "Sheshadripuram",
+      "prob": 0.0848,
+      "lift": 5.779,
+      "delay_min": 16.4,
+      "p_value": 0.0,
+      "weight": 5.088
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Adugodi",
+      "prob": 0.0832,
+      "lift": 5.574,
+      "delay_min": 19.6,
+      "p_value": 0.0,
+      "weight": 8.735
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Kodigehalli",
+      "prob": 0.0826,
+      "lift": 2.452,
+      "delay_min": 32.4,
+      "p_value": 0.0,
+      "weight": 10.331
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Sadashivanagar",
+      "prob": 0.0824,
+      "lift": 2.202,
+      "delay_min": 25.1,
+      "p_value": 0.0,
+      "weight": 5.689
+    },
+    {
+      "from": "Adugodi",
+      "to": "HSR Layout",
+      "prob": 0.0823,
+      "lift": 5.701,
+      "delay_min": 20.9,
+      "p_value": 0.0,
+      "weight": 9.87
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0823,
+      "lift": 9.594,
+      "delay_min": 23.4,
+      "p_value": 0.0,
+      "weight": 13.83
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Wilson Garden",
+      "prob": 0.0823,
+      "lift": 6.306,
+      "delay_min": 28.6,
+      "p_value": 0.0,
+      "weight": 16.797
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Sheshadripuram",
+      "prob": 0.0823,
+      "lift": 5.609,
+      "delay_min": 20.6,
+      "p_value": 0.0,
+      "weight": 8.642
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Wilson Garden",
+      "prob": 0.0821,
+      "lift": 6.291,
+      "delay_min": 19.7,
+      "p_value": 0.0,
+      "weight": 14.458
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Ashok Nagar",
+      "prob": 0.0821,
+      "lift": 3.932,
+      "delay_min": 26.0,
+      "p_value": 0.0,
+      "weight": 7.311
+    },
+    {
+      "from": "Chikkabanavara",
+      "to": "Peenya",
+      "prob": 0.0816,
+      "lift": 3.686,
+      "delay_min": 14.6,
+      "p_value": 0.0,
+      "weight": 9.547
+    },
+    {
+      "from": "Jnanabharathi",
+      "to": "Kamakshipalya",
+      "prob": 0.0815,
+      "lift": 2.992,
+      "delay_min": 32.8,
+      "p_value": 0.0,
+      "weight": 10.674
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Ashok Nagar",
+      "prob": 0.0812,
+      "lift": 3.885,
+      "delay_min": 20.4,
+      "p_value": 0.0,
+      "weight": 9.577
+    },
+    {
+      "from": "Upparpet",
+      "to": "Halasuru Gate",
+      "prob": 0.0809,
+      "lift": 2.213,
+      "delay_min": 22.7,
+      "p_value": 0.0,
+      "weight": 4.855
+    },
+    {
+      "from": "K.S. Layout",
+      "to": "Banashankari",
+      "prob": 0.0806,
+      "lift": 6.358,
+      "delay_min": 12.3,
+      "p_value": 0.0,
+      "weight": 6.936
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Adugodi",
+      "prob": 0.0803,
+      "lift": 5.384,
+      "delay_min": 21.1,
+      "p_value": 0.0,
+      "weight": 9.963
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Chamarajpet",
+      "prob": 0.0802,
+      "lift": 3.431,
+      "delay_min": 31.8,
+      "p_value": 0.0,
+      "weight": 9.467
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "High ground",
+      "prob": 0.0792,
+      "lift": 3.538,
+      "delay_min": 27.7,
+      "p_value": 0.0,
+      "weight": 23.837
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Mico Layout",
+      "prob": 0.0791,
+      "lift": 5.481,
+      "delay_min": 30.8,
+      "p_value": 0.0,
+      "weight": 13.916
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Sheshadripuram",
+      "prob": 0.0785,
+      "lift": 5.35,
+      "delay_min": 21.8,
+      "p_value": 0.0,
+      "weight": 23.081
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Magadi Road",
+      "prob": 0.0777,
+      "lift": 4.495,
+      "delay_min": 26.4,
+      "p_value": 0.0,
+      "weight": 9.168
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Cubbon Park",
+      "prob": 0.0766,
+      "lift": 3.02,
+      "delay_min": 23.7,
+      "p_value": 0.0,
+      "weight": 23.062
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Halasuru Gate",
+      "prob": 0.0762,
+      "lift": 2.084,
+      "delay_min": 29.7,
+      "p_value": 0.0,
+      "weight": 6.783
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Yeshwanthpura",
+      "prob": 0.0761,
+      "lift": 2.195,
+      "delay_min": 33.0,
+      "p_value": 0.0,
+      "weight": 22.919
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Sadashivanagar",
+      "prob": 0.0755,
+      "lift": 2.017,
+      "delay_min": 14.9,
+      "p_value": 0.0,
+      "weight": 6.719
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Sadashivanagar",
+      "prob": 0.075,
+      "lift": 2.004,
+      "delay_min": 27.9,
+      "p_value": 0.0,
+      "weight": 7.653
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Chamarajpet",
+      "prob": 0.0747,
+      "lift": 3.194,
+      "delay_min": 21.4,
+      "p_value": 0.0,
+      "weight": 12.544
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Yeshwanthpura",
+      "prob": 0.0746,
+      "lift": 2.15,
+      "delay_min": 34.2,
+      "p_value": 0.0,
+      "weight": 14.469
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Kodigehalli",
+      "prob": 0.0743,
+      "lift": 2.205,
+      "delay_min": 29.3,
+      "p_value": 0.0,
+      "weight": 14.419
+    },
+    {
+      "from": "Madiwala",
+      "to": "Mico Layout",
+      "prob": 0.0742,
+      "lift": 5.144,
+      "delay_min": 17.4,
+      "p_value": 0.0,
+      "weight": 13.579
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Shivajinagar",
+      "prob": 0.0741,
+      "lift": 6.691,
+      "delay_min": 27.1,
+      "p_value": 0.0,
+      "weight": 15.107
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "Sadashivanagar",
+      "prob": 0.0739,
+      "lift": 1.973,
+      "delay_min": 24.3,
+      "p_value": 0.0,
+      "weight": 20.019
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0733,
+      "lift": 8.538,
+      "delay_min": 12.2,
+      "p_value": 0.0,
+      "weight": 5.275
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Halasur",
+      "prob": 0.0716,
+      "lift": 4.961,
+      "delay_min": 24.9,
+      "p_value": 0.0,
+      "weight": 7.515
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Jalahalli",
+      "prob": 0.0715,
+      "lift": 2.963,
+      "delay_min": 25.3,
+      "p_value": 0.0,
+      "weight": 5.647
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "R.T. Nagar",
+      "prob": 0.0715,
+      "lift": 4.597,
+      "delay_min": 25.7,
+      "p_value": 0.0,
+      "weight": 21.509
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Sheshadripuram",
+      "prob": 0.0701,
+      "lift": 4.779,
+      "delay_min": 21.0,
+      "p_value": 0.0,
+      "weight": 14.306
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Ashok Nagar",
+      "prob": 0.0699,
+      "lift": 3.348,
+      "delay_min": 19.9,
+      "p_value": 0.0,
+      "weight": 3.287
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Cubbon Park",
+      "prob": 0.0699,
+      "lift": 2.757,
+      "delay_min": 21.2,
+      "p_value": 0.0,
+      "weight": 6.225
+    },
+    {
+      "from": "Upparpet",
+      "to": "Wilson Garden",
+      "prob": 0.0696,
+      "lift": 5.33,
+      "delay_min": 28.6,
+      "p_value": 0.0,
+      "weight": 4.176
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Yeshwanthpura",
+      "prob": 0.0695,
+      "lift": 2.003,
+      "delay_min": 27.7,
+      "p_value": 0.0,
+      "weight": 8.202
+    },
+    {
+      "from": "Adugodi",
+      "to": "Wilson Garden",
+      "prob": 0.0694,
+      "lift": 5.312,
+      "delay_min": 24.4,
+      "p_value": 0.0,
+      "weight": 8.324
+    },
+    {
+      "from": "High ground",
+      "to": "R.T. Nagar",
+      "prob": 0.0691,
+      "lift": 4.444,
+      "delay_min": 23.9,
+      "p_value": 0.0,
+      "weight": 12.436
+    },
+    {
+      "from": "City Market",
+      "to": "Basavanagudi",
+      "prob": 0.069,
+      "lift": 11.803,
+      "delay_min": 22.6,
+      "p_value": 0.0,
+      "weight": 1.863
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Peenya",
+      "prob": 0.0685,
+      "lift": 3.094,
+      "delay_min": 24.9,
+      "p_value": 0.0,
+      "weight": 19.11
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Chamarajpet",
+      "prob": 0.0681,
+      "lift": 2.914,
+      "delay_min": 28.2,
+      "p_value": 0.0,
+      "weight": 8.515
+    },
+    {
+      "from": "City Market",
+      "to": "Rajajinagar",
+      "prob": 0.0677,
+      "lift": 5.335,
+      "delay_min": 24.5,
+      "p_value": 0.0,
+      "weight": 1.827
+    },
+    {
+      "from": "High ground",
+      "to": "Shivajinagar",
+      "prob": 0.0676,
+      "lift": 6.111,
+      "delay_min": 29.1,
+      "p_value": 0.0,
+      "weight": 12.175
+    },
+    {
+      "from": "Jnanabharathi",
+      "to": "Byatarayanapura",
+      "prob": 0.0674,
+      "lift": 1.832,
+      "delay_min": 35.4,
+      "p_value": 0.0,
+      "weight": 8.834
+    },
+    {
+      "from": "City Market",
+      "to": "Sheshadripuram",
+      "prob": 0.066,
+      "lift": 4.496,
+      "delay_min": 4.3,
+      "p_value": 0.0,
+      "weight": 1.781
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Electronic City",
+      "prob": 0.0644,
+      "lift": 4.278,
+      "delay_min": 31.9,
+      "p_value": 0.0,
+      "weight": 7.468
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Ashok Nagar",
+      "prob": 0.0642,
+      "lift": 3.073,
+      "delay_min": 30.5,
+      "p_value": 0.0,
+      "weight": 13.099
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Yeshwanthpura",
+      "prob": 0.0642,
+      "lift": 1.85,
+      "delay_min": 30.2,
+      "p_value": 0.0,
+      "weight": 3.722
+    },
+    {
+      "from": "Adugodi",
+      "to": "Mico Layout",
+      "prob": 0.064,
+      "lift": 4.438,
+      "delay_min": 25.1,
+      "p_value": 0.0,
+      "weight": 7.683
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Malleshwaram",
+      "prob": 0.0639,
+      "lift": 6.505,
+      "delay_min": 22.9,
+      "p_value": 0.0,
+      "weight": 6.519
+    },
+    {
+      "from": "K.S. Layout",
+      "to": "J.P. Nagar",
+      "prob": 0.0638,
+      "lift": 4.134,
+      "delay_min": 26.8,
+      "p_value": 0.0,
+      "weight": 5.483
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Ashok Nagar",
+      "prob": 0.0633,
+      "lift": 3.031,
+      "delay_min": 24.0,
+      "p_value": 0.0,
+      "weight": 11.905
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Sheshadripuram",
+      "prob": 0.0631,
+      "lift": 4.298,
+      "delay_min": 9.6,
+      "p_value": 0.0,
+      "weight": 4.983
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Basavanagudi",
+      "prob": 0.0627,
+      "lift": 10.731,
+      "delay_min": 32.2,
+      "p_value": 0.0,
+      "weight": 11.792
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Halasuru Gate",
+      "prob": 0.062,
+      "lift": 1.695,
+      "delay_min": 27.0,
+      "p_value": 0.0,
+      "weight": 7.748
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Jalahalli",
+      "prob": 0.0614,
+      "lift": 2.546,
+      "delay_min": 28.4,
+      "p_value": 0.0,
+      "weight": 6.265
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Rajajinagar",
+      "prob": 0.0613,
+      "lift": 4.835,
+      "delay_min": 35.2,
+      "p_value": 0.0,
+      "weight": 4.845
+    },
+    {
+      "from": "Hebbala",
+      "to": "Sadashivanagar",
+      "prob": 0.0612,
+      "lift": 1.636,
+      "delay_min": 27.6,
+      "p_value": 0.0,
+      "weight": 8.267
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Wilson Garden",
+      "prob": 0.0607,
+      "lift": 4.647,
+      "delay_min": 32.4,
+      "p_value": 0.0,
+      "weight": 17.841
+    },
+    {
+      "from": "City Market",
+      "to": "Banashankari",
+      "prob": 0.06,
+      "lift": 4.733,
+      "delay_min": 12.3,
+      "p_value": 0.0,
+      "weight": 1.621
+    },
+    {
+      "from": "City Market",
+      "to": "Upparpet",
+      "prob": 0.06,
+      "lift": 8.04,
+      "delay_min": 31.1,
+      "p_value": 0.0,
+      "weight": 1.62
+    },
+    {
+      "from": "High ground",
+      "to": "Ashok Nagar",
+      "prob": 0.0595,
+      "lift": 2.846,
+      "delay_min": 21.8,
+      "p_value": 0.0,
+      "weight": 10.703
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Ashok Nagar",
+      "prob": 0.0591,
+      "lift": 2.828,
+      "delay_min": 28.1,
+      "p_value": 0.0,
+      "weight": 17.371
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Kodigehalli",
+      "prob": 0.0589,
+      "lift": 1.749,
+      "delay_min": 28.7,
+      "p_value": 0.0,
+      "weight": 17.744
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "K.S. Layout",
+      "prob": 0.0587,
+      "lift": 5.485,
+      "delay_min": 15.0,
+      "p_value": 0.0,
+      "weight": 2.757
+    },
+    {
+      "from": "Hennuru",
+      "to": "Kodigehalli",
+      "prob": 0.0586,
+      "lift": 1.739,
+      "delay_min": 29.7,
+      "p_value": 0.0,
+      "weight": 16.003
+    },
+    {
+      "from": "Hulimavu",
+      "to": "HSR Layout",
+      "prob": 0.0584,
+      "lift": 4.047,
+      "delay_min": 12.6,
+      "p_value": 0.0,
+      "weight": 6.773
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Jayanagara",
+      "prob": 0.0583,
+      "lift": 2.662,
+      "delay_min": 11.5,
+      "p_value": 0.0,
+      "weight": 6.758
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "R.T. Nagar",
+      "prob": 0.0575,
+      "lift": 3.699,
+      "delay_min": 22.0,
+      "p_value": 0.0,
+      "weight": 3.968
+    },
+    {
+      "from": "High ground",
+      "to": "Malleshwaram",
+      "prob": 0.0568,
+      "lift": 5.78,
+      "delay_min": 21.3,
+      "p_value": 0.0,
+      "weight": 10.222
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Mico Layout",
+      "prob": 0.0565,
+      "lift": 3.916,
+      "delay_min": 17.2,
+      "p_value": 0.0,
+      "weight": 6.553
+    },
+    {
+      "from": "Banashankari",
+      "to": "Byatarayanapura",
+      "prob": 0.0563,
+      "lift": 1.531,
+      "delay_min": 27.8,
+      "p_value": 0.0003,
+      "weight": 5.747
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Sadashivanagar",
+      "prob": 0.0563,
+      "lift": 1.504,
+      "delay_min": 24.0,
+      "p_value": 0.0007,
+      "weight": 4.053
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Malleshwaram",
+      "prob": 0.0559,
+      "lift": 5.69,
+      "delay_min": 24.6,
+      "p_value": 0.0,
+      "weight": 6.988
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Basavanagudi",
+      "prob": 0.0558,
+      "lift": 9.541,
+      "delay_min": 31.7,
+      "p_value": 0.0,
+      "weight": 6.915
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Rajajinagar",
+      "prob": 0.0557,
+      "lift": 4.389,
+      "delay_min": 17.0,
+      "p_value": 0.0,
+      "weight": 2.06
+    },
+    {
+      "from": "Halasur",
+      "to": "Adugodi",
+      "prob": 0.0552,
+      "lift": 3.699,
+      "delay_min": 25.4,
+      "p_value": 0.0,
+      "weight": 6.403
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Cubbon Park",
+      "prob": 0.0547,
+      "lift": 2.158,
+      "delay_min": 15.4,
+      "p_value": 0.0,
+      "weight": 7.61
+    },
+    {
+      "from": "High ground",
+      "to": "Basavanagudi",
+      "prob": 0.0545,
+      "lift": 9.323,
+      "delay_min": 25.3,
+      "p_value": 0.0,
+      "weight": 9.809
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Sheshadripuram",
+      "prob": 0.0544,
+      "lift": 3.708,
+      "delay_min": 21.5,
+      "p_value": 0.0,
+      "weight": 16.379
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Sadashivanagar",
+      "prob": 0.0542,
+      "lift": 1.447,
+      "delay_min": 26.1,
+      "p_value": 0.004,
+      "weight": 15.929
+    },
+    {
+      "from": "Upparpet",
+      "to": "Sadashivanagar",
+      "prob": 0.054,
+      "lift": 1.443,
+      "delay_min": 31.6,
+      "p_value": 0.0046,
+      "weight": 3.24
+    },
+    {
+      "from": "Adugodi",
+      "to": "Ashok Nagar",
+      "prob": 0.0538,
+      "lift": 2.576,
+      "delay_min": 28.2,
+      "p_value": 0.0,
+      "weight": 6.457
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Madiwala",
+      "prob": 0.0538,
+      "lift": 2.365,
+      "delay_min": 23.5,
+      "p_value": 0.0,
+      "weight": 5.651
+    },
+    {
+      "from": "Peenya",
+      "to": "Yeshwanthpura",
+      "prob": 0.0536,
+      "lift": 1.545,
+      "delay_min": 19.2,
+      "p_value": 0.0002,
+      "weight": 9.541
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Upparpet",
+      "prob": 0.0534,
+      "lift": 7.162,
+      "delay_min": 24.4,
+      "p_value": 0.0,
+      "weight": 10.047
+    },
+    {
+      "from": "Hebbala",
+      "to": "Hennuru",
+      "prob": 0.0533,
+      "lift": 1.571,
+      "delay_min": 28.4,
+      "p_value": 0.0001,
+      "weight": 7.199
+    },
+    {
+      "from": "High ground",
+      "to": "Yeshwanthpura",
+      "prob": 0.0533,
+      "lift": 1.537,
+      "delay_min": 26.5,
+      "p_value": 0.0002,
+      "weight": 9.597
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Sadashivanagar",
+      "prob": 0.0531,
+      "lift": 1.419,
+      "delay_min": 29.3,
+      "p_value": 0.0099,
+      "weight": 14.817
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Banaswadi",
+      "prob": 0.0528,
+      "lift": 1.756,
+      "delay_min": 21.2,
+      "p_value": 0.0,
+      "weight": 3.805
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Chamarajpet",
+      "prob": 0.0526,
+      "lift": 2.249,
+      "delay_min": 28.3,
+      "p_value": 0.0,
+      "weight": 15.561
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Sheshadripuram",
+      "prob": 0.0526,
+      "lift": 3.587,
+      "delay_min": 36.3,
+      "p_value": 0.0,
+      "weight": 3.053
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "Jalahalli",
+      "prob": 0.0525,
+      "lift": 2.176,
+      "delay_min": 30.0,
+      "p_value": 0.0,
+      "weight": 14.23
+    },
+    {
+      "from": "High ground",
+      "to": "Upparpet",
+      "prob": 0.0519,
+      "lift": 6.961,
+      "delay_min": 17.8,
+      "p_value": 0.0,
+      "weight": 9.349
+    },
+    {
+      "from": "Upparpet",
+      "to": "Basavanagudi",
+      "prob": 0.0518,
+      "lift": 8.854,
+      "delay_min": 17.0,
+      "p_value": 0.0,
+      "weight": 3.105
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Banashankari",
+      "prob": 0.0515,
+      "lift": 4.063,
+      "delay_min": 23.7,
+      "p_value": 0.0,
+      "weight": 6.391
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Kodigehalli",
+      "prob": 0.0513,
+      "lift": 1.522,
+      "delay_min": 31.1,
+      "p_value": 0.0004,
+      "weight": 3.694
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Hebbala",
+      "prob": 0.0505,
+      "lift": 3.008,
+      "delay_min": 21.0,
+      "p_value": 0.0,
+      "weight": 6.313
+    },
+    {
+      "from": "Hennuru",
+      "to": "Banaswadi",
+      "prob": 0.0504,
+      "lift": 1.675,
+      "delay_min": 22.6,
+      "p_value": 0.0,
+      "weight": 13.763
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Rajajinagar",
+      "prob": 0.0503,
+      "lift": 3.965,
+      "delay_min": 23.0,
+      "p_value": 0.0,
+      "weight": 5.936
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "K.S. Layout",
+      "prob": 0.05,
+      "lift": 4.674,
+      "delay_min": 32.3,
+      "p_value": 0.0,
+      "weight": 6.199
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Wilson Garden",
+      "prob": 0.0498,
+      "lift": 3.814,
+      "delay_min": 14.7,
+      "p_value": 0.0,
+      "weight": 6.923
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "R.T. Nagar",
+      "prob": 0.0498,
+      "lift": 3.204,
+      "delay_min": 18.9,
+      "p_value": 0.0,
+      "weight": 5.877
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Byatarayanapura",
+      "prob": 0.0497,
+      "lift": 1.349,
+      "delay_min": 20.1,
+      "p_value": 0.085,
+      "weight": 5.861
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Jayanagara",
+      "prob": 0.0492,
+      "lift": 2.247,
+      "delay_min": 16.0,
+      "p_value": 0.0,
+      "weight": 8.261
+    },
+    {
+      "from": "Upparpet",
+      "to": "Magadi Road",
+      "prob": 0.0492,
+      "lift": 2.847,
+      "delay_min": 27.8,
+      "p_value": 0.0,
+      "weight": 2.952
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Upparpet",
+      "prob": 0.0489,
+      "lift": 6.551,
+      "delay_min": 20.6,
+      "p_value": 0.0,
+      "weight": 14.371
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Chamarajpet",
+      "prob": 0.0489,
+      "lift": 2.09,
+      "delay_min": 20.9,
+      "p_value": 0.0,
+      "weight": 3.861
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Adugodi",
+      "prob": 0.0486,
+      "lift": 3.254,
+      "delay_min": 29.6,
+      "p_value": 0.0,
+      "weight": 8.548
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Ashok Nagar",
+      "prob": 0.0486,
+      "lift": 2.326,
+      "delay_min": 14.4,
+      "p_value": 0.0,
+      "weight": 6.075
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "K.G. Halli",
+      "prob": 0.0485,
+      "lift": 5.42,
+      "delay_min": 27.4,
+      "p_value": 0.0,
+      "weight": 3.349
+    },
+    {
+      "from": "City Market",
+      "to": "Jayanagara",
+      "prob": 0.0482,
+      "lift": 2.204,
+      "delay_min": 13.2,
+      "p_value": 0.0,
+      "weight": 1.303
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Basavanagudi",
+      "prob": 0.0479,
+      "lift": 8.199,
+      "delay_min": 32.0,
+      "p_value": 0.0,
+      "weight": 6.661
+    },
+    {
+      "from": "Upparpet",
+      "to": "Byatarayanapura",
+      "prob": 0.0477,
+      "lift": 1.297,
+      "delay_min": 28.4,
+      "p_value": 0.3312,
+      "weight": 2.865
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Shivajinagar",
+      "prob": 0.0476,
+      "lift": 4.304,
+      "delay_min": 27.2,
+      "p_value": 0.0,
+      "weight": 5.955
+    },
+    {
+      "from": "City Market",
+      "to": "Shivajinagar",
+      "prob": 0.0471,
+      "lift": 4.255,
+      "delay_min": 23.4,
+      "p_value": 0.0,
+      "weight": 1.272
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "Hebbala",
+      "prob": 0.0471,
+      "lift": 2.804,
+      "delay_min": 27.2,
+      "p_value": 0.0,
+      "weight": 12.759
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Rajajinagar",
+      "prob": 0.0469,
+      "lift": 3.698,
+      "delay_min": 19.6,
+      "p_value": 0.0,
+      "weight": 13.086
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Basavanagudi",
+      "prob": 0.0468,
+      "lift": 8.014,
+      "delay_min": 19.5,
+      "p_value": 0.0,
+      "weight": 5.527
+    },
+    {
+      "from": "Mahadevapura",
+      "to": "HAL Old Airport",
+      "prob": 0.0463,
+      "lift": 1.052,
+      "delay_min": 28.4,
+      "p_value": 0.9992,
+      "weight": 5.558
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Rajajinagar",
+      "prob": 0.0463,
+      "lift": 3.647,
+      "delay_min": 23.0,
+      "p_value": 0.0,
+      "weight": 2.683
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Sadashivanagar",
+      "prob": 0.0462,
+      "lift": 1.233,
+      "delay_min": 29.1,
+      "p_value": 0.7944,
+      "weight": 8.678
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "R.T. Nagar",
+      "prob": 0.0462,
+      "lift": 2.969,
+      "delay_min": 19.4,
+      "p_value": 0.0,
+      "weight": 3.324
+    },
+    {
+      "from": "Yelahanka",
+      "to": "Kodigehalli",
+      "prob": 0.0462,
+      "lift": 1.37,
+      "delay_min": 23.3,
+      "p_value": 0.0464,
+      "weight": 17.401
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Jalahalli",
+      "prob": 0.046,
+      "lift": 1.907,
+      "delay_min": 30.5,
+      "p_value": 0.0,
+      "weight": 12.837
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Sheshadripuram",
+      "prob": 0.0458,
+      "lift": 3.124,
+      "delay_min": 31.6,
+      "p_value": 0.0,
+      "weight": 4.676
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Sheshadripuram",
+      "prob": 0.0455,
+      "lift": 3.098,
+      "delay_min": 19.5,
+      "p_value": 0.0,
+      "weight": 4.046
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Halasuru Gate",
+      "prob": 0.0454,
+      "lift": 1.242,
+      "delay_min": 26.4,
+      "p_value": 0.7445,
+      "weight": 13.667
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Halasuru Gate",
+      "prob": 0.0451,
+      "lift": 1.235,
+      "delay_min": 30.9,
+      "p_value": 0.7858,
+      "weight": 6.275
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Basavanagudi",
+      "prob": 0.045,
+      "lift": 7.694,
+      "delay_min": 24.0,
+      "p_value": 0.0,
+      "weight": 13.221
+    },
+    {
+      "from": "Hennuru",
+      "to": "K.G. Halli",
+      "prob": 0.0448,
+      "lift": 5.005,
+      "delay_min": 13.1,
+      "p_value": 0.0,
+      "weight": 12.235
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "R.T. Nagar",
+      "prob": 0.0446,
+      "lift": 2.867,
+      "delay_min": 27.8,
+      "p_value": 0.0,
+      "weight": 3.967
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "Hennuru",
+      "prob": 0.0445,
+      "lift": 1.31,
+      "delay_min": 25.8,
+      "p_value": 0.2441,
+      "weight": 12.057
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Kamakshipalya",
+      "prob": 0.0442,
+      "lift": 1.623,
+      "delay_min": 26.4,
+      "p_value": 0.0,
+      "weight": 4.508
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Chamarajpet",
+      "prob": 0.044,
+      "lift": 1.881,
+      "delay_min": 28.5,
+      "p_value": 0.0,
+      "weight": 13.234
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Magadi Road",
+      "prob": 0.0439,
+      "lift": 2.541,
+      "delay_min": 18.5,
+      "p_value": 0.0,
+      "weight": 4.613
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Halasuru Gate",
+      "prob": 0.0436,
+      "lift": 1.193,
+      "delay_min": 15.5,
+      "p_value": 0.9337,
+      "weight": 2.529
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Upparpet",
+      "prob": 0.0432,
+      "lift": 5.79,
+      "delay_min": 20.3,
+      "p_value": 0.0,
+      "weight": 5.4
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Shivajinagar",
+      "prob": 0.0429,
+      "lift": 3.877,
+      "delay_min": 29.8,
+      "p_value": 0.0,
+      "weight": 2.961
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Upparpet",
+      "prob": 0.0427,
+      "lift": 5.728,
+      "delay_min": 15.7,
+      "p_value": 0.0,
+      "weight": 2.479
+    },
+    {
+      "from": "Mahadevapura",
+      "to": "Banaswadi",
+      "prob": 0.0423,
+      "lift": 1.405,
+      "delay_min": 26.2,
+      "p_value": 0.0151,
+      "weight": 5.076
+    },
+    {
+      "from": "Adugodi",
+      "to": "Halasur",
+      "prob": 0.0422,
+      "lift": 2.928,
+      "delay_min": 35.6,
+      "p_value": 0.0,
+      "weight": 5.069
+    },
+    {
+      "from": "Banashankari",
+      "to": "Jayanagara",
+      "prob": 0.042,
+      "lift": 1.918,
+      "delay_min": 34.8,
+      "p_value": 0.0,
+      "weight": 4.283
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Basavanagudi",
+      "prob": 0.0419,
+      "lift": 7.168,
+      "delay_min": 23.3,
+      "p_value": 0.0,
+      "weight": 7.374
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "R.T. Nagar",
+      "prob": 0.0415,
+      "lift": 2.668,
+      "delay_min": 27.0,
+      "p_value": 0.0,
+      "weight": 8.459
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Magadi Road",
+      "prob": 0.0412,
+      "lift": 2.382,
+      "delay_min": 20.7,
+      "p_value": 0.0,
+      "weight": 8.399
+    },
+    {
+      "from": "Kamakshipalya",
+      "to": "Jnanabharathi",
+      "prob": 0.0412,
+      "lift": 2.528,
+      "delay_min": 32.2,
+      "p_value": 0.0,
+      "weight": 9.021
+    },
+    {
+      "from": "City Market",
+      "to": "Halasur",
+      "prob": 0.0409,
+      "lift": 2.838,
+      "delay_min": 28.1,
+      "p_value": 0.0,
+      "weight": 1.105
+    },
+    {
+      "from": "Banashankari",
+      "to": "J.P. Nagar",
+      "prob": 0.0407,
+      "lift": 2.64,
+      "delay_min": 24.5,
+      "p_value": 0.0,
+      "weight": 4.153
+    },
+    {
+      "from": "Chikkabanavara",
+      "to": "Yeshwanthpura",
+      "prob": 0.0404,
+      "lift": 1.165,
+      "delay_min": 25.8,
+      "p_value": 0.972,
+      "weight": 4.728
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Banashankari",
+      "prob": 0.0398,
+      "lift": 3.141,
+      "delay_min": 27.5,
+      "p_value": 0.0,
+      "weight": 7.012
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Malleshwaram",
+      "prob": 0.0397,
+      "lift": 4.037,
+      "delay_min": 26.2,
+      "p_value": 0.0,
+      "weight": 7.457
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Cubbon Park",
+      "prob": 0.0395,
+      "lift": 1.557,
+      "delay_min": 34.8,
+      "p_value": 0.0001,
+      "weight": 2.844
+    },
+    {
+      "from": "Madiwala",
+      "to": "Wilson Garden",
+      "prob": 0.0394,
+      "lift": 3.016,
+      "delay_min": 22.5,
+      "p_value": 0.0,
+      "weight": 7.208
+    },
+    {
+      "from": "Banaswadi",
+      "to": "Mahadevapura",
+      "prob": 0.0392,
+      "lift": 2.626,
+      "delay_min": 16.8,
+      "p_value": 0.0,
+      "weight": 9.483
+    },
+    {
+      "from": "Peenya",
+      "to": "Jalahalli",
+      "prob": 0.0389,
+      "lift": 1.614,
+      "delay_min": 28.1,
+      "p_value": 0.0,
+      "weight": 6.933
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Wilson Garden",
+      "prob": 0.0388,
+      "lift": 2.971,
+      "delay_min": 23.6,
+      "p_value": 0.0,
+      "weight": 4.578
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Byatarayanapura",
+      "prob": 0.0387,
+      "lift": 1.052,
+      "delay_min": 28.6,
+      "p_value": 0.9992,
+      "weight": 11.383
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Madiwala",
+      "prob": 0.0384,
+      "lift": 1.688,
+      "delay_min": 25.7,
+      "p_value": 0.0,
+      "weight": 6.763
+    },
+    {
+      "from": "Mahadevapura",
+      "to": "Whitefield",
+      "prob": 0.038,
+      "lift": 1.707,
+      "delay_min": 25.9,
+      "p_value": 0.0,
+      "weight": 4.559
+    },
+    {
+      "from": "Banashankari",
+      "to": "K.S. Layout",
+      "prob": 0.0378,
+      "lift": 3.532,
+      "delay_min": 28.1,
+      "p_value": 0.0,
+      "weight": 3.853
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Magadi Road",
+      "prob": 0.0371,
+      "lift": 2.146,
+      "delay_min": 28.7,
+      "p_value": 0.0,
+      "weight": 10.983
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Malleshwaram",
+      "prob": 0.037,
+      "lift": 3.762,
+      "delay_min": 24.2,
+      "p_value": 0.0,
+      "weight": 11.125
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Hebbala",
+      "prob": 0.0369,
+      "lift": 2.2,
+      "delay_min": 24.1,
+      "p_value": 0.0,
+      "weight": 7.167
+    },
+    {
+      "from": "K.S. Layout",
+      "to": "Jayanagara",
+      "prob": 0.0369,
+      "lift": 1.687,
+      "delay_min": 12.0,
+      "p_value": 0.0,
+      "weight": 3.176
+    },
+    {
+      "from": "Jayanagara",
+      "to": "HSR Layout",
+      "prob": 0.0368,
+      "lift": 2.548,
+      "delay_min": 25.3,
+      "p_value": 0.0,
+      "weight": 6.47
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Magadi Road",
+      "prob": 0.0368,
+      "lift": 2.13,
+      "delay_min": 32.2,
+      "p_value": 0.0,
+      "weight": 11.08
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Kamakshipalya",
+      "prob": 0.0365,
+      "lift": 1.34,
+      "delay_min": 25.9,
+      "p_value": 0.1103,
+      "weight": 2.884
+    },
+    {
+      "from": "Banaswadi",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.0362,
+      "lift": 2.326,
+      "delay_min": 21.7,
+      "p_value": 0.0,
+      "weight": 8.748
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Banaswadi",
+      "prob": 0.0362,
+      "lift": 1.201,
+      "delay_min": 23.4,
+      "p_value": 0.9142,
+      "weight": 4.52
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Magadi Road",
+      "prob": 0.036,
+      "lift": 2.084,
+      "delay_min": 26.9,
+      "p_value": 0.0,
+      "weight": 10.59
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Basavanagudi",
+      "prob": 0.0358,
+      "lift": 6.118,
+      "delay_min": 1.9,
+      "p_value": 0.0,
+      "weight": 1.323
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Rajajinagar",
+      "prob": 0.0354,
+      "lift": 2.787,
+      "delay_min": 24.1,
+      "p_value": 0.0,
+      "weight": 10.642
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Basavanagudi",
+      "prob": 0.035,
+      "lift": 5.989,
+      "delay_min": 20.5,
+      "p_value": 0.0,
+      "weight": 7.142
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Kodigehalli",
+      "prob": 0.035,
+      "lift": 1.039,
+      "delay_min": 33.8,
+      "p_value": 0.9995,
+      "weight": 9.773
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Basavanagudi",
+      "prob": 0.0348,
+      "lift": 5.951,
+      "delay_min": 18.4,
+      "p_value": 0.0,
+      "weight": 10.296
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Jalahalli",
+      "prob": 0.0348,
+      "lift": 1.441,
+      "delay_min": 26.1,
+      "p_value": 0.0049,
+      "weight": 10.466
+    },
+    {
+      "from": "Banaswadi",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0346,
+      "lift": 4.032,
+      "delay_min": 19.7,
+      "p_value": 0.0,
+      "weight": 8.374
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "R.T. Nagar",
+      "prob": 0.0346,
+      "lift": 2.225,
+      "delay_min": 23.0,
+      "p_value": 0.0,
+      "weight": 6.503
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "K.G. Halli",
+      "prob": 0.0343,
+      "lift": 3.828,
+      "delay_min": 32.2,
+      "p_value": 0.0,
+      "weight": 4.284
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0343,
+      "lift": 3.992,
+      "delay_min": 29.1,
+      "p_value": 0.0,
+      "weight": 10.312
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Magadi Road",
+      "prob": 0.0342,
+      "lift": 1.98,
+      "delay_min": 30.1,
+      "p_value": 0.0,
+      "weight": 3.492
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Chamarajpet",
+      "prob": 0.0337,
+      "lift": 1.44,
+      "delay_min": 27.0,
+      "p_value": 0.005,
+      "weight": 2.997
+    },
+    {
+      "from": "J.P. Nagar",
+      "to": "Thalagattapura",
+      "prob": 0.0333,
+      "lift": 6.078,
+      "delay_min": 19.1,
+      "p_value": 0.0,
+      "weight": 4.124
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0327,
+      "lift": 3.815,
+      "delay_min": 33.6,
+      "p_value": 0.0,
+      "weight": 2.914
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Wilson Garden",
+      "prob": 0.0324,
+      "lift": 2.483,
+      "delay_min": 22.4,
+      "p_value": 0.0,
+      "weight": 3.762
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Rajajinagar",
+      "prob": 0.0322,
+      "lift": 2.539,
+      "delay_min": 25.8,
+      "p_value": 0.0,
+      "weight": 4.477
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Upparpet",
+      "prob": 0.0322,
+      "lift": 4.321,
+      "delay_min": 21.9,
+      "p_value": 0.0,
+      "weight": 3.804
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Adugodi",
+      "prob": 0.032,
+      "lift": 2.143,
+      "delay_min": 29.0,
+      "p_value": 0.0,
+      "weight": 5.373
+    },
+    {
+      "from": "K.R. Pura",
+      "to": "Banaswadi",
+      "prob": 0.032,
+      "lift": 1.064,
+      "delay_min": 26.4,
+      "p_value": 0.9988,
+      "weight": 7.304
+    },
+    {
+      "from": "Upparpet",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0319,
+      "lift": 3.723,
+      "delay_min": 10.5,
+      "p_value": 0.0,
+      "weight": 1.917
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Upparpet",
+      "prob": 0.0315,
+      "lift": 4.221,
+      "delay_min": 17.6,
+      "p_value": 0.0,
+      "weight": 3.307
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0314,
+      "lift": 3.658,
+      "delay_min": 25.0,
+      "p_value": 0.0,
+      "weight": 9.228
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Sheshadripuram",
+      "prob": 0.0308,
+      "lift": 2.099,
+      "delay_min": 18.3,
+      "p_value": 0.0,
+      "weight": 2.125
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Rajajinagar",
+      "prob": 0.0308,
+      "lift": 2.431,
+      "delay_min": 31.9,
+      "p_value": 0.0,
+      "weight": 3.855
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Rajajinagar",
+      "prob": 0.0307,
+      "lift": 2.423,
+      "delay_min": 27.3,
+      "p_value": 0.0,
+      "weight": 5.778
+    },
+    {
+      "from": "High ground",
+      "to": "City Market",
+      "prob": 0.0307,
+      "lift": 9.143,
+      "delay_min": 21.2,
+      "p_value": 0.0,
+      "weight": 5.526
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "R.T. Nagar",
+      "prob": 0.0306,
+      "lift": 1.971,
+      "delay_min": 25.1,
+      "p_value": 0.0,
+      "weight": 8.304
+    },
+    {
+      "from": "Bellandur",
+      "to": "HSR Layout",
+      "prob": 0.0305,
+      "lift": 2.114,
+      "delay_min": 25.8,
+      "p_value": 0.0,
+      "weight": 2.897
+    },
+    {
+      "from": "Banashankari",
+      "to": "Basavanagudi",
+      "prob": 0.0303,
+      "lift": 5.176,
+      "delay_min": 24.7,
+      "p_value": 0.0,
+      "weight": 3.086
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Banashankari",
+      "prob": 0.0303,
+      "lift": 2.388,
+      "delay_min": 23.6,
+      "p_value": 0.0,
+      "weight": 5.694
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Jnanabharathi",
+      "prob": 0.0302,
+      "lift": 1.852,
+      "delay_min": 22.9,
+      "p_value": 0.0,
+      "weight": 3.077
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Shivajinagar",
+      "prob": 0.0302,
+      "lift": 2.728,
+      "delay_min": 23.1,
+      "p_value": 0.0,
+      "weight": 9.089
+    },
+    {
+      "from": "Upparpet",
+      "to": "Shivajinagar",
+      "prob": 0.0302,
+      "lift": 2.725,
+      "delay_min": 4.3,
+      "p_value": 0.0,
+      "weight": 1.809
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "City Market",
+      "prob": 0.0301,
+      "lift": 8.952,
+      "delay_min": 31.3,
+      "p_value": 0.0,
+      "weight": 5.651
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Vijayanagara",
+      "prob": 0.0301,
+      "lift": 4.176,
+      "delay_min": 28.5,
+      "p_value": 0.0,
+      "weight": 4.186
+    },
+    {
+      "from": "Madiwala",
+      "to": "Hulimavu",
+      "prob": 0.0295,
+      "lift": 2.047,
+      "delay_min": 16.3,
+      "p_value": 0.0,
+      "weight": 5.405
+    },
+    {
+      "from": "Hulimavu",
+      "to": "Jayanagara",
+      "prob": 0.0294,
+      "lift": 1.345,
+      "delay_min": 30.1,
+      "p_value": 0.0974,
+      "weight": 3.414
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Hulimavu",
+      "prob": 0.0294,
+      "lift": 2.036,
+      "delay_min": 19.2,
+      "p_value": 0.0,
+      "weight": 3.408
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Shivajinagar",
+      "prob": 0.0294,
+      "lift": 2.654,
+      "delay_min": 24.7,
+      "p_value": 0.0,
+      "weight": 1.087
+    },
+    {
+      "from": "High ground",
+      "to": "Halasur",
+      "prob": 0.0293,
+      "lift": 2.029,
+      "delay_min": 24.2,
+      "p_value": 0.0,
+      "weight": 5.268
+    },
+    {
+      "from": "HAL Old Airport",
+      "to": "K.R. Pura",
+      "prob": 0.0291,
+      "lift": 1.025,
+      "delay_min": 27.9,
+      "p_value": 0.9997,
+      "weight": 10.29
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Halasur",
+      "prob": 0.0289,
+      "lift": 2.004,
+      "delay_min": 26.0,
+      "p_value": 0.0,
+      "weight": 5.898
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Magadi Road",
+      "prob": 0.0287,
+      "lift": 1.659,
+      "delay_min": 40.5,
+      "p_value": 0.0,
+      "weight": 1.663
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Sheshadripuram",
+      "prob": 0.0284,
+      "lift": 1.932,
+      "delay_min": 16.6,
+      "p_value": 0.0,
+      "weight": 1.333
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Upparpet",
+      "prob": 0.0284,
+      "lift": 3.81,
+      "delay_min": 25.2,
+      "p_value": 0.0,
+      "weight": 2.246
+    },
+    {
+      "from": "V.V.Puram (C.Pet)",
+      "to": "Upparpet",
+      "prob": 0.0283,
+      "lift": 3.791,
+      "delay_min": 28.4,
+      "p_value": 0.0,
+      "weight": 1.047
+    },
+    {
+      "from": "HAL Old Airport",
+      "to": "Mahadevapura",
+      "prob": 0.028,
+      "lift": 1.875,
+      "delay_min": 18.6,
+      "p_value": 0.0,
+      "weight": 9.904
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Malleshwaram",
+      "prob": 0.0279,
+      "lift": 2.841,
+      "delay_min": 23.4,
+      "p_value": 0.0,
+      "weight": 3.293
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "High ground",
+      "prob": 0.0278,
+      "lift": 1.243,
+      "delay_min": 22.8,
+      "p_value": 0.7358,
+      "weight": 2.839
+    },
+    {
+      "from": "Banashankari",
+      "to": "Chamarajpet",
+      "prob": 0.0277,
+      "lift": 1.187,
+      "delay_min": 28.3,
+      "p_value": 0.9446,
+      "weight": 2.83
+    },
+    {
+      "from": "Kamakshipalya",
+      "to": "Magadi Road",
+      "prob": 0.0274,
+      "lift": 1.587,
+      "delay_min": 26.7,
+      "p_value": 0.0,
+      "weight": 6.007
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Sheshadripuram",
+      "prob": 0.0273,
+      "lift": 1.861,
+      "delay_min": 27.4,
+      "p_value": 0.0,
+      "weight": 4.589
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Shivajinagar",
+      "prob": 0.0273,
+      "lift": 2.469,
+      "delay_min": 27.5,
+      "p_value": 0.0,
+      "weight": 3.224
+    },
+    {
+      "from": "Hebbala",
+      "to": "R.T. Nagar",
+      "prob": 0.0272,
+      "lift": 1.748,
+      "delay_min": 35.0,
+      "p_value": 0.0,
+      "weight": 3.668
+    },
+    {
+      "from": "K.R. Pura",
+      "to": "Mahadevapura",
+      "prob": 0.0272,
+      "lift": 1.826,
+      "delay_min": 29.1,
+      "p_value": 0.0,
+      "weight": 6.213
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Sheshadripuram",
+      "prob": 0.027,
+      "lift": 1.838,
+      "delay_min": 28.7,
+      "p_value": 0.0,
+      "weight": 7.526
+    },
+    {
+      "from": "Halasur",
+      "to": "Jayanagara",
+      "prob": 0.0268,
+      "lift": 1.226,
+      "delay_min": 29.0,
+      "p_value": 0.8282,
+      "weight": 3.113
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Shivajinagar",
+      "prob": 0.0268,
+      "lift": 2.418,
+      "delay_min": 24.2,
+      "p_value": 0.0,
+      "weight": 7.87
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Vijayanagara",
+      "prob": 0.026,
+      "lift": 3.607,
+      "delay_min": 24.8,
+      "p_value": 0.0,
+      "weight": 1.223
+    },
+    {
+      "from": "High ground",
+      "to": "K.G. Halli",
+      "prob": 0.026,
+      "lift": 2.907,
+      "delay_min": 23.9,
+      "p_value": 0.0,
+      "weight": 4.686
+    },
+    {
+      "from": "Peenya",
+      "to": "Chikkabanavara",
+      "prob": 0.0257,
+      "lift": 1.768,
+      "delay_min": 27.9,
+      "p_value": 0.0,
+      "weight": 4.58
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "Shivajinagar",
+      "prob": 0.0256,
+      "lift": 2.311,
+      "delay_min": 16.5,
+      "p_value": 0.0,
+      "weight": 3.198
+    },
+    {
+      "from": "Whitefield",
+      "to": "Mahadevapura",
+      "prob": 0.0256,
+      "lift": 1.716,
+      "delay_min": 25.6,
+      "p_value": 0.0,
+      "weight": 4.585
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Jayanagara",
+      "prob": 0.0255,
+      "lift": 1.167,
+      "delay_min": 17.7,
+      "p_value": 0.9699,
+      "weight": 4.802
+    },
+    {
+      "from": "Chamarajpet",
+      "to": "Vijayanagara",
+      "prob": 0.0255,
+      "lift": 3.54,
+      "delay_min": 35.7,
+      "p_value": 0.0,
+      "weight": 4.8
+    },
+    {
+      "from": "High ground",
+      "to": "Rajajinagar",
+      "prob": 0.0254,
+      "lift": 2.003,
+      "delay_min": 24.3,
+      "p_value": 0.0,
+      "weight": 4.574
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Peenya",
+      "prob": 0.0252,
+      "lift": 1.137,
+      "delay_min": 24.6,
+      "p_value": 0.9883,
+      "weight": 4.882
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Rajajinagar",
+      "prob": 0.0251,
+      "lift": 1.981,
+      "delay_min": 21.9,
+      "p_value": 0.0,
+      "weight": 4.875
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Malleshwaram",
+      "prob": 0.0247,
+      "lift": 2.509,
+      "delay_min": 36.4,
+      "p_value": 0.0,
+      "weight": 6.879
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Malleshwaram",
+      "prob": 0.0246,
+      "lift": 2.5,
+      "delay_min": 34.8,
+      "p_value": 0.0,
+      "weight": 3.414
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Upparpet",
+      "prob": 0.0246,
+      "lift": 3.298,
+      "delay_min": 21.1,
+      "p_value": 0.0,
+      "weight": 2.51
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "R.T. Nagar",
+      "prob": 0.0245,
+      "lift": 1.573,
+      "delay_min": 36.2,
+      "p_value": 0.0001,
+      "weight": 1.932
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "Halasur",
+      "prob": 0.0245,
+      "lift": 1.696,
+      "delay_min": 35.3,
+      "p_value": 0.0,
+      "weight": 3.058
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Jnanabharathi",
+      "prob": 0.0243,
+      "lift": 1.49,
+      "delay_min": 33.5,
+      "p_value": 0.001,
+      "weight": 7.184
+    },
+    {
+      "from": "Pulikeshinagar(F.Town)",
+      "to": "Upparpet",
+      "prob": 0.0242,
+      "lift": 3.245,
+      "delay_min": 11.4,
+      "p_value": 0.0,
+      "weight": 1.671
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Jayanagara",
+      "prob": 0.0241,
+      "lift": 1.103,
+      "delay_min": 23.9,
+      "p_value": 0.996,
+      "weight": 7.097
+    },
+    {
+      "from": "K.G. Halli",
+      "to": "Halasur",
+      "prob": 0.0241,
+      "lift": 1.67,
+      "delay_min": 28.2,
+      "p_value": 0.0,
+      "weight": 1.734
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "High ground",
+      "prob": 0.024,
+      "lift": 1.072,
+      "delay_min": 40.4,
+      "p_value": 0.9985,
+      "weight": 2.135
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Shivajinagar",
+      "prob": 0.0237,
+      "lift": 2.141,
+      "delay_min": 33.9,
+      "p_value": 0.0,
+      "weight": 3.98
+    },
+    {
+      "from": "Jnanabharathi",
+      "to": "Vijayanagara",
+      "prob": 0.0237,
+      "lift": 3.288,
+      "delay_min": 38.3,
+      "p_value": 0.0,
+      "weight": 3.107
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Halasur",
+      "prob": 0.0236,
+      "lift": 1.638,
+      "delay_min": 28.0,
+      "p_value": 0.0,
+      "weight": 6.946
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Magadi Road",
+      "prob": 0.0235,
+      "lift": 1.357,
+      "delay_min": 23.8,
+      "p_value": 0.0668,
+      "weight": 1.854
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Upparpet",
+      "prob": 0.0234,
+      "lift": 3.14,
+      "delay_min": 25.2,
+      "p_value": 0.0,
+      "weight": 4.78
+    },
+    {
+      "from": "Basavanagudi",
+      "to": "Adugodi",
+      "prob": 0.0233,
+      "lift": 1.564,
+      "delay_min": 43.9,
+      "p_value": 0.0001,
+      "weight": 1.097
+    },
+    {
+      "from": "Halasur",
+      "to": "Shivajinagar",
+      "prob": 0.0233,
+      "lift": 2.109,
+      "delay_min": 31.5,
+      "p_value": 0.0,
+      "weight": 2.708
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "Banashankari",
+      "prob": 0.0233,
+      "lift": 1.834,
+      "delay_min": 18.0,
+      "p_value": 0.0,
+      "weight": 2.443
+    },
+    {
+      "from": "Kamakshipalya",
+      "to": "Rajajinagar",
+      "prob": 0.0229,
+      "lift": 1.805,
+      "delay_min": 29.3,
+      "p_value": 0.0,
+      "weight": 5.014
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Sheshadripuram",
+      "prob": 0.0228,
+      "lift": 1.556,
+      "delay_min": 25.1,
+      "p_value": 0.0001,
+      "weight": 6.757
+    },
+    {
+      "from": "HSR Layout",
+      "to": "Ashok Nagar",
+      "prob": 0.0225,
+      "lift": 1.078,
+      "delay_min": 17.3,
+      "p_value": 0.9982,
+      "weight": 2.612
+    },
+    {
+      "from": "Banashankari",
+      "to": "Mico Layout",
+      "prob": 0.022,
+      "lift": 1.523,
+      "delay_min": 22.2,
+      "p_value": 0.0004,
+      "weight": 2.241
+    },
+    {
+      "from": "Jayanagara",
+      "to": "Halasur",
+      "prob": 0.0216,
+      "lift": 1.496,
+      "delay_min": 29.9,
+      "p_value": 0.0008,
+      "weight": 3.798
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Ashok Nagar",
+      "prob": 0.0216,
+      "lift": 1.033,
+      "delay_min": 28.3,
+      "p_value": 0.9996,
+      "weight": 6.497
+    },
+    {
+      "from": "Upparpet",
+      "to": "Malleshwaram",
+      "prob": 0.0215,
+      "lift": 2.187,
+      "delay_min": 23.4,
+      "p_value": 0.0,
+      "weight": 1.289
+    },
+    {
+      "from": "Jnanabharathi",
+      "to": "Magadi Road",
+      "prob": 0.0213,
+      "lift": 1.232,
+      "delay_min": 30.3,
+      "p_value": 0.7981,
+      "weight": 2.791
+    },
+    {
+      "from": "Vijayanagara",
+      "to": "Malleshwaram",
+      "prob": 0.0213,
+      "lift": 2.167,
+      "delay_min": 21.3,
+      "p_value": 0.0,
+      "weight": 1.235
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.0211,
+      "lift": 1.358,
+      "delay_min": 27.1,
+      "p_value": 0.0661,
+      "weight": 1.879
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "City Market",
+      "prob": 0.0208,
+      "lift": 6.198,
+      "delay_min": 27.7,
+      "p_value": 0.0,
+      "weight": 2.185
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Basavanagudi",
+      "prob": 0.0207,
+      "lift": 3.538,
+      "delay_min": 26.6,
+      "p_value": 0.0,
+      "weight": 3.474
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.0206,
+      "lift": 1.324,
+      "delay_min": 18.8,
+      "p_value": 0.1714,
+      "weight": 4.2
+    },
+    {
+      "from": "Banashankari",
+      "to": "V.V.Puram (C.Pet)",
+      "prob": 0.0204,
+      "lift": 4.444,
+      "delay_min": 16.4,
+      "p_value": 0.0,
+      "weight": 2.086
+    },
+    {
+      "from": "Banashankari",
+      "to": "Wilson Garden",
+      "prob": 0.02,
+      "lift": 1.528,
+      "delay_min": 18.3,
+      "p_value": 0.0003,
+      "weight": 2.035
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "City Market",
+      "prob": 0.0199,
+      "lift": 5.932,
+      "delay_min": 12.7,
+      "p_value": 0.0,
+      "weight": 2.35
+    },
+    {
+      "from": "Hulimavu",
+      "to": "Mico Layout",
+      "prob": 0.0193,
+      "lift": 1.34,
+      "delay_min": 42.3,
+      "p_value": 0.1124,
+      "weight": 2.242
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Malleshwaram",
+      "prob": 0.0192,
+      "lift": 1.951,
+      "delay_min": 16.7,
+      "p_value": 0.0,
+      "weight": 1.706
+    },
+    {
+      "from": "Jayanagara",
+      "to": "V.V.Puram (C.Pet)",
+      "prob": 0.0191,
+      "lift": 4.142,
+      "delay_min": 18.5,
+      "p_value": 0.0,
+      "weight": 3.354
+    },
+    {
+      "from": "High ground",
+      "to": "Vijayanagara",
+      "prob": 0.0189,
+      "lift": 2.616,
+      "delay_min": 41.6,
+      "p_value": 0.0,
+      "weight": 3.396
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "Vijayanagara",
+      "prob": 0.0187,
+      "lift": 2.599,
+      "delay_min": 42.1,
+      "p_value": 0.0,
+      "weight": 2.212
+    },
+    {
+      "from": "Hennuru",
+      "to": "Hebbala",
+      "prob": 0.0184,
+      "lift": 1.097,
+      "delay_min": 28.5,
+      "p_value": 0.9968,
+      "weight": 5.026
+    },
+    {
+      "from": "Mahadevapura",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.0183,
+      "lift": 1.178,
+      "delay_min": 23.9,
+      "p_value": 0.9573,
+      "weight": 2.198
+    },
+    {
+      "from": "Halasur",
+      "to": "R.T. Nagar",
+      "prob": 0.018,
+      "lift": 1.16,
+      "delay_min": 32.9,
+      "p_value": 0.9759,
+      "weight": 2.092
+    },
+    {
+      "from": "Shivajinagar",
+      "to": "Halasur",
+      "prob": 0.0179,
+      "lift": 1.244,
+      "delay_min": 29.5,
+      "p_value": 0.7314,
+      "weight": 1.597
+    },
+    {
+      "from": "Jayanagara",
+      "to": "City Market",
+      "prob": 0.0174,
+      "lift": 5.173,
+      "delay_min": 29.4,
+      "p_value": 0.0,
+      "weight": 3.057
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0173,
+      "lift": 2.014,
+      "delay_min": 28.5,
+      "p_value": 0.0,
+      "weight": 1.365
+    },
+    {
+      "from": "Upparpet",
+      "to": "R.T. Nagar",
+      "prob": 0.0173,
+      "lift": 1.112,
+      "delay_min": 31.5,
+      "p_value": 0.9947,
+      "weight": 1.037
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "K.G. Halli",
+      "prob": 0.0172,
+      "lift": 1.915,
+      "delay_min": 30.0,
+      "p_value": 0.0,
+      "weight": 2.144
+    },
+    {
+      "from": "R.T. Nagar",
+      "to": "City Market",
+      "prob": 0.0172,
+      "lift": 5.114,
+      "delay_min": 29.8,
+      "p_value": 0.0,
+      "weight": 2.146
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Upparpet",
+      "prob": 0.0172,
+      "lift": 2.309,
+      "delay_min": 24.3,
+      "p_value": 0.0,
+      "weight": 5.185
+    },
+    {
+      "from": "Upparpet",
+      "to": "K.G. Halli",
+      "prob": 0.0172,
+      "lift": 1.919,
+      "delay_min": 24.1,
+      "p_value": 0.0,
+      "weight": 1.031
+    },
+    {
+      "from": "HAL Old Airport",
+      "to": "Jeevanbheemanagar",
+      "prob": 0.0168,
+      "lift": 1.079,
+      "delay_min": 23.5,
+      "p_value": 0.9982,
+      "weight": 5.936
+    },
+    {
+      "from": "Malleshwaram",
+      "to": "Shivajinagar",
+      "prob": 0.0168,
+      "lift": 1.521,
+      "delay_min": 26.5,
+      "p_value": 0.0004,
+      "weight": 1.33
+    },
+    {
+      "from": "K.S. Layout",
+      "to": "Mico Layout",
+      "prob": 0.0166,
+      "lift": 1.151,
+      "delay_min": 18.9,
+      "p_value": 0.9816,
+      "weight": 1.428
+    },
+    {
+      "from": "Jeevanbheemanagar",
+      "to": "Mahadevapura",
+      "prob": 0.0165,
+      "lift": 1.105,
+      "delay_min": 15.0,
+      "p_value": 0.9958,
+      "weight": 2.061
+    },
+    {
+      "from": "Sheshadripuram",
+      "to": "K.G. Halli",
+      "prob": 0.0165,
+      "lift": 1.842,
+      "delay_min": 23.4,
+      "p_value": 0.0,
+      "weight": 1.947
+    },
+    {
+      "from": "Madiwala",
+      "to": "Halasur",
+      "prob": 0.0163,
+      "lift": 1.128,
+      "delay_min": 21.8,
+      "p_value": 0.9912,
+      "weight": 2.978
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Chikkabanavara",
+      "prob": 0.0163,
+      "lift": 1.12,
+      "delay_min": 22.1,
+      "p_value": 0.9932,
+      "weight": 1.662
+    },
+    {
+      "from": "Hennuru",
+      "to": "R.T. Nagar",
+      "prob": 0.0162,
+      "lift": 1.042,
+      "delay_min": 23.7,
+      "p_value": 0.9994,
+      "weight": 4.423
+    },
+    {
+      "from": "Mico Layout",
+      "to": "Basavanagudi",
+      "prob": 0.0162,
+      "lift": 2.764,
+      "delay_min": 35.1,
+      "p_value": 0.0,
+      "weight": 1.874
+    },
+    {
+      "from": "Kamakshipalya",
+      "to": "Vijayanagara",
+      "prob": 0.0155,
+      "lift": 2.15,
+      "delay_min": 29.6,
+      "p_value": 0.0,
+      "weight": 3.396
+    },
+    {
+      "from": "Kamakshipalya",
+      "to": "Malleshwaram",
+      "prob": 0.0153,
+      "lift": 1.559,
+      "delay_min": 31.4,
+      "p_value": 0.0001,
+      "weight": 3.354
+    },
+    {
+      "from": "Halasur",
+      "to": "City Market",
+      "prob": 0.0151,
+      "lift": 4.499,
+      "delay_min": 23.3,
+      "p_value": 0.0,
+      "weight": 1.752
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Vijayanagara",
+      "prob": 0.0148,
+      "lift": 2.058,
+      "delay_min": 30.9,
+      "p_value": 0.0,
+      "weight": 1.514
+    },
+    {
+      "from": "Magadi Road",
+      "to": "City Market",
+      "prob": 0.0145,
+      "lift": 4.322,
+      "delay_min": 33.8,
+      "p_value": 0.0,
+      "weight": 2.017
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "V.V.Puram (C.Pet)",
+      "prob": 0.0143,
+      "lift": 3.115,
+      "delay_min": 25.1,
+      "p_value": 0.0,
+      "weight": 2.408
+    },
+    {
+      "from": "Cubbon Park",
+      "to": "Malleshwaram",
+      "prob": 0.0142,
+      "lift": 1.448,
+      "delay_min": 26.8,
+      "p_value": 0.004,
+      "weight": 2.901
+    },
+    {
+      "from": "Rajajinagar",
+      "to": "Basavanagudi",
+      "prob": 0.014,
+      "lift": 2.399,
+      "delay_min": 14.0,
+      "p_value": 0.0,
+      "weight": 1.431
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "Malleshwaram",
+      "prob": 0.0139,
+      "lift": 1.412,
+      "delay_min": 22.9,
+      "p_value": 0.0124,
+      "weight": 4.078
+    },
+    {
+      "from": "High ground",
+      "to": "V.V.Puram (C.Pet)",
+      "prob": 0.0138,
+      "lift": 2.997,
+      "delay_min": 29.5,
+      "p_value": 0.0,
+      "weight": 2.482
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "Upparpet",
+      "prob": 0.0137,
+      "lift": 1.838,
+      "delay_min": 25.9,
+      "p_value": 0.0,
+      "weight": 2.303
+    },
+    {
+      "from": "Banashankari",
+      "to": "City Market",
+      "prob": 0.0136,
+      "lift": 4.04,
+      "delay_min": 16.0,
+      "p_value": 0.0,
+      "weight": 1.384
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Upparpet",
+      "prob": 0.0129,
+      "lift": 1.725,
+      "delay_min": 29.1,
+      "p_value": 0.0,
+      "weight": 3.809
+    },
+    {
+      "from": "Peenya",
+      "to": "Rajajinagar",
+      "prob": 0.0129,
+      "lift": 1.015,
+      "delay_min": 26.5,
+      "p_value": 0.9998,
+      "weight": 2.291
+    },
+    {
+      "from": "HAL Old Airport",
+      "to": "Bellandur",
+      "prob": 0.0125,
+      "lift": 1.057,
+      "delay_min": 27.0,
+      "p_value": 0.9991,
+      "weight": 4.419
+    },
+    {
+      "from": "Kodigehalli",
+      "to": "K.G. Halli",
+      "prob": 0.0125,
+      "lift": 1.394,
+      "delay_min": 28.1,
+      "p_value": 0.0215,
+      "weight": 3.383
+    },
+    {
+      "from": "Wilson Garden",
+      "to": "V.V.Puram (C.Pet)",
+      "prob": 0.0125,
+      "lift": 2.722,
+      "delay_min": 18.2,
+      "p_value": 0.0,
+      "weight": 1.315
+    },
+    {
+      "from": "Magadi Road",
+      "to": "Upparpet",
+      "prob": 0.0124,
+      "lift": 1.664,
+      "delay_min": 24.5,
+      "p_value": 0.0,
+      "weight": 1.726
+    },
+    {
+      "from": "Jalahalli",
+      "to": "Malleshwaram",
+      "prob": 0.012,
+      "lift": 1.219,
+      "delay_min": 29.9,
+      "p_value": 0.8566,
+      "weight": 2.324
+    },
+    {
+      "from": "Sadashivanagar",
+      "to": "Vijayanagara",
+      "prob": 0.0115,
+      "lift": 1.6,
+      "delay_min": 26.3,
+      "p_value": 0.0,
+      "weight": 3.473
+    },
+    {
+      "from": "Halasuru Gate",
+      "to": "City Market",
+      "prob": 0.0113,
+      "lift": 3.37,
+      "delay_min": 29.7,
+      "p_value": 0.0,
+      "weight": 3.327
+    },
+    {
+      "from": "Ashok Nagar",
+      "to": "K.G. Halli",
+      "prob": 0.0112,
+      "lift": 1.252,
+      "delay_min": 23.2,
+      "p_value": 0.6787,
+      "weight": 1.883
+    },
+    {
+      "from": "Hebbala",
+      "to": "Pulikeshinagar(F.Town)",
+      "prob": 0.0107,
+      "lift": 1.244,
+      "delay_min": 27.5,
+      "p_value": 0.73,
+      "weight": 1.441
+    },
+    {
+      "from": "Byatarayanapura",
+      "to": "Kengeri",
+      "prob": 0.0106,
+      "lift": 2.134,
+      "delay_min": 27.5,
+      "p_value": 0.0,
+      "weight": 3.142
+    },
+    {
+      "from": "Hebbala",
+      "to": "K.G. Halli",
+      "prob": 0.0105,
+      "lift": 1.171,
+      "delay_min": 33.8,
+      "p_value": 0.9661,
+      "weight": 1.415
+    },
+    {
+      "from": "Yeshwanthpura",
+      "to": "Vijayanagara",
+      "prob": 0.0101,
+      "lift": 1.403,
+      "delay_min": 26.7,
+      "p_value": 0.0162,
+      "weight": 2.824
+    }
+  ]
+}

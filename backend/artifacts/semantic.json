@@ -1,0 +1,164 @@
+{
+  "n_descriptions": 6479,
+  "n_clusters": 10,
+  "kannada_descriptions": 856,
+  "kannada_share_overall": 0.132,
+  "method": "char_wb TF-IDF (3-5 grams) + KMeans — language agnostic",
+  "archetypes": [
+    {
+      "id": 2,
+      "size": 1870,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.459,
+      "kannada_share": 0.054,
+      "avg_duration_min": 1817.9,
+      "avg_response_min": 2.8,
+      "examples": [
+        "s m circle in coming  man track",
+        "tree fall",
+        "lorry undar pass woter logging trafick swol moment ph [PHONE]",
+        "ಟೈರ್ ಪಂಚರ್"
+      ]
+    },
+    {
+      "id": 0,
+      "size": 841,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.602,
+      "kannada_share": 0.019,
+      "avg_duration_min": 936.3,
+      "avg_response_min": 2.4,
+      "examples": [
+        "[LOCATION] parked at ring road sir traffic little bit slow sir",
+        "water logging with drainage leakage near [LOCATION] bus stop [LOCATION] road.",
+        "[LOCATION] works going on sir",
+        "BMTC buss off -road due to break down..fire station jn towards [LOCATION]"
+      ]
+    },
+    {
+      "id": 9,
+      "size": 716,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.486,
+      "kannada_share": 1.0,
+      "avg_duration_min": 1782.3,
+      "avg_response_min": 3.1,
+      "examples": [
+        "ಊರ್ವಶಿ ಜಂಕ್ಷನ್ ನಲ್ಲಿ ಒಳಚರಂಡಿ ಚೇಂಬರ್ ಗೆ ಹೊಸದಾಗಿ ಸಿಮೆಂಟ್ ಹಾಕಿದ್ದು ಟ್ರಾಫಿಕ್ ಮೂವ್ಮೆಂಟ್ ಸ್ವಲ್ಪ ನಿಧಾನಗತಿಯಲ್ಲಿ ಇರುತ್ತದೆ ಸರ್🙏",
+        "[LOCATION] ಪೈಪ್ [PERSON] ವಾಹನ ಆಫ್ ಆಗಿರುತ್ತದೆ ಸರ್",
+        "ಬಿಎಂಟಿಸಿ ಬಸ್ ಕೆಟ್ಟು ನಿಂತಿದೆ ಸರ್",
+        "ಕಾಫಿ ಡೇ ಇಂದ ರೋಟರಿ ಸರ್ಕಲ್ ವರೆಗೆ ಬಿ ಡಬ್ಲ್ಯೂ ಎಸ್ ಎಸ್ ಬಿ ವರ್ಕ್ ನಡೆಯುತ್ತಿರುತ್ತದೆ ಟ್ರಾಫಿಕ್ ಗೆ ಯಾವುದೇ ಸಮಸ್ಯೆ ಇರುವುದಿಲ್ಲ"
+      ]
+    },
+    {
+      "id": 8,
+      "size": 677,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.612,
+      "kannada_share": 0.006,
+      "avg_duration_min": 1670.1,
+      "avg_response_min": 1.9,
+      "examples": [
+        "traffic slow moving and accident happening",
+        "traffic normal sir.",
+        "BMTC off road on 14th cross towards NTTF traffic one side movement",
+        "Gear jam not moving traffic slow moving"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 629,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.817,
+      "kannada_share": 0.008,
+      "avg_duration_min": 1157.8,
+      "avg_response_min": 2.3,
+      "examples": [
+        "Near hsbc junction lgv vehicle off road due to clutch plate got broken have left side no problem to traffic from hsbc to arakere junction sir",
+        "bmtc bus offroad in front of adishakti temple",
+        "Service road",
+        "BMTC bus offroad Near roopena agrahara bus stop  towards silk board sir traffic slow movment ide sir"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 498,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.821,
+      "kannada_share": 0.006,
+      "avg_duration_min": 868.0,
+      "avg_response_min": 2.0,
+      "examples": [
+        "Bmtc bus offload due to gear box problem",
+        "mei signal off due to power Problem",
+        "Traffic no problem",
+        "Nayadahallie towards BHEL incoming side traffic no problem"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 443,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.567,
+      "kannada_share": 0.016,
+      "avg_duration_min": 1604.8,
+      "avg_response_min": 2.1,
+      "examples": [
+        "woter logging [PERSON] moment ph [PHONE]",
+        "KSRTC bus mechanic [PERSON] sir that's why vehicle not moving",
+        "GD mara to [PERSON]",
+        "Near cm office [PERSON] towards B02 junction sir"
+      ]
+    },
+    {
+      "id": 1,
+      "size": 373,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.965,
+      "kannada_share": 0.003,
+      "avg_duration_min": 56.5,
+      "avg_response_min": 2.2,
+      "examples": [
+        "One garage vehical stopped on road due to break down",
+        "Vehicle breakdown at old airport road opp [PERSON] hotel",
+        "break down",
+        "1 LGV vehicle break Down near wells fargo front [PERSON]"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 281,
+      "dominant_cause": "vehicle_breakdown",
+      "cause_purity": 0.907,
+      "kannada_share": 0.011,
+      "avg_duration_min": 118.0,
+      "avg_response_min": 1.9,
+      "examples": [
+        "Starting problem",
+        "satarting problem",
+        "Vehicle starting problem",
+        "starting orobleum"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 151,
+      "dominant_cause": "construction",
+      "cause_purity": 0.563,
+      "kannada_share": 0.0,
+      "avg_duration_min": 93.0,
+      "avg_response_min": 1.3,
+      "examples": [
+        "BWSSB AND KRIDE WORK AT [LOCATION] hebbal circle to bhadrapp layout sir",
+        "[LOCATION] towards marathhalli and karthiknagara towards mahadevpura traffic movement will be slow due to metrostation work",
+        "karthiknagara towards [LOCATION] and karthiknagara towards marathhalli traffic movement will be slow due to [LOCATION] station piller work",
+        "BWSSB AND KRIDE WORK AT [LOCATION] to bhadrapp layout sir traffic slow moving sir"
+      ]
+    }
+  ],
+  "notes": [
+    "Character n-grams cluster Kannada and English text without translation.",
+    "cause_purity = fraction of the cluster sharing its dominant official cause.",
+    "High kannada_share clusters are incident types the English-only flags miss."
+  ]
+}

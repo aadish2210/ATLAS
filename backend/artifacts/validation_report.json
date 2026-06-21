@@ -1,0 +1,115 @@
+{
+  "summary": {
+    "n_total": 2380,
+    "n_train": 1904,
+    "n_holdout": 476,
+    "target": "duration_min",
+    "holdout_range": {
+      "start": "2024-03-15 12:58:25.679000+05:30",
+      "end": "2024-04-08 16:48:02.081000+05:30"
+    },
+    "interval_kind": "quantile_90",
+    "features_used": {
+      "categorical": [
+        "event_cause",
+        "corridor",
+        "zone",
+        "priority",
+        "veh_type",
+        "direction",
+        "gba_identifier",
+        "cargo_type",
+        "desc_len_bucket"
+      ],
+      "numeric": [
+        "hour",
+        "dow",
+        "is_weekend",
+        "road_closure",
+        "weather_flag",
+        "event_kw_flag",
+        "is_event_driven",
+        "month",
+        "priority_high",
+        "has_veh_no",
+        "is_commercial_veh",
+        "has_cargo",
+        "truck_age",
+        "was_reassigned",
+        "has_assigned_officer",
+        "has_distinct_closer",
+        "has_kgid",
+        "has_end_address",
+        "has_route_path",
+        "route_points"
+      ],
+      "count": 29
+    }
+  },
+  "metrics": {
+    "mae_min": 35.39,
+    "median_ae_min": 19.64,
+    "rmse_min": 64.21,
+    "mape": 0.704,
+    "within_15_min": 0.397,
+    "coverage_90": 0.884,
+    "avg_interval_width_min": 151.34,
+    "coverage_90_conformal": 0.956,
+    "avg_interval_width_conformal_min": 183.69
+  },
+  "slices": {
+    "by_event_cause": [
+      {
+        "cause": "vehicle_breakdown",
+        "n": 308,
+        "mae_min": 25.93,
+        "coverage_90": 0.88,
+        "avg_width_min": 106.77
+      },
+      {
+        "cause": "water_logging",
+        "n": 53,
+        "mae_min": 53.26,
+        "coverage_90": 0.868,
+        "avg_width_min": 198.06
+      },
+      {
+        "cause": "tree_fall",
+        "n": 47,
+        "mae_min": 67.99,
+        "coverage_90": 0.894,
+        "avg_width_min": 269.8
+      }
+    ],
+    "by_zone": [],
+    "by_hour_band": [
+      {
+        "hour_band": "morning",
+        "n": 170,
+        "mae_min": 37.06,
+        "coverage_90": 0.853,
+        "avg_width_min": 134.47
+      },
+      {
+        "hour_band": "late_night",
+        "n": 164,
+        "mae_min": 34.76,
+        "coverage_90": 0.89,
+        "avg_width_min": 161.75
+      },
+      {
+        "hour_band": "midday",
+        "n": 128,
+        "mae_min": 34.92,
+        "coverage_90": 0.922,
+        "avg_width_min": 161.93
+      }
+    ]
+  },
+  "notes": [
+    "Holdout is out-of-time (latest rows), not random.",
+    "coverage_90 should be near 0.90 for calibrated uncertainty.",
+    "interval_kind=quantile_90 uses dedicated quantile models for tighter bands.",
+    "Use slice metrics to detect segments where reliability degrades."
+  ]
+}

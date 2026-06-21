@@ -1,0 +1,523 @@
+{
+  "target_formula": "10*(0.45*rank(dur)+0.25*rank(resp)+0.15*closure+0.15*rank(station_cascade))",
+  "global": {
+    "sev_mean": 2.91,
+    "sev_p90": 5.41
+  },
+  "evidence_thresholds": {
+    "data_driven": 100,
+    "limited": 20
+  },
+  "by_cause": {
+    "Debris": {
+      "n": 12,
+      "sev_mean": 2.5,
+      "sev_p10": 1.24,
+      "sev_p50": 1.87,
+      "sev_p90": 4.82,
+      "dur_p50": 19189.6
+    },
+    "Fog / Low Visibility": {
+      "n": 2,
+      "sev_mean": 1.42,
+      "sev_p10": 0.55,
+      "sev_p50": 1.42,
+      "sev_p90": 2.29,
+      "dur_p50": NaN
+    },
+    "accident": {
+      "n": 364,
+      "sev_mean": 2.55,
+      "sev_p10": 0.64,
+      "sev_p50": 2.71,
+      "sev_p90": 4.06,
+      "dur_p50": 40.0
+    },
+    "congestion": {
+      "n": 136,
+      "sev_mean": 2.02,
+      "sev_p10": 0.77,
+      "sev_p50": 1.74,
+      "sev_p90": 4.17,
+      "dur_p50": 71.5
+    },
+    "construction": {
+      "n": 436,
+      "sev_mean": 3.0,
+      "sev_p10": 0.85,
+      "sev_p50": 2.6,
+      "sev_p90": 5.98,
+      "dur_p50": 1311.7
+    },
+    "debris": {
+      "n": 1,
+      "sev_mean": 4.87,
+      "sev_p10": 4.87,
+      "sev_p50": 4.87,
+      "sev_p90": 4.87,
+      "dur_p50": NaN
+    },
+    "others": {
+      "n": 635,
+      "sev_mean": 3.73,
+      "sev_p10": 1.17,
+      "sev_p50": 3.47,
+      "sev_p90": 6.58,
+      "dur_p50": 142.5
+    },
+    "pot_holes": {
+      "n": 537,
+      "sev_mean": 2.17,
+      "sev_p10": 0.68,
+      "sev_p50": 1.52,
+      "sev_p90": 5.23,
+      "dur_p50": 3171.4
+    },
+    "procession": {
+      "n": 66,
+      "sev_mean": 2.83,
+      "sev_p10": 0.93,
+      "sev_p50": 2.63,
+      "sev_p90": 4.79,
+      "dur_p50": 36.5
+    },
+    "protest": {
+      "n": 14,
+      "sev_mean": 2.69,
+      "sev_p10": 1.06,
+      "sev_p50": 2.85,
+      "sev_p90": 4.2,
+      "dur_p50": 24.5
+    },
+    "public_event": {
+      "n": 45,
+      "sev_mean": 2.35,
+      "sev_p10": 0.82,
+      "sev_p50": 2.39,
+      "sev_p90": 4.31,
+      "dur_p50": NaN
+    },
+    "road_conditions": {
+      "n": 170,
+      "sev_mean": 3.46,
+      "sev_p10": 1.14,
+      "sev_p50": 3.04,
+      "sev_p90": 6.49,
+      "dur_p50": 1564.7
+    },
+    "test_demo": {
+      "n": 3,
+      "sev_mean": 1.83,
+      "sev_p10": 1.36,
+      "sev_p50": 1.66,
+      "sev_p90": 2.37,
+      "dur_p50": 1.8
+    },
+    "tree_fall": {
+      "n": 284,
+      "sev_mean": 4.27,
+      "sev_p10": 1.2,
+      "sev_p50": 4.2,
+      "sev_p90": 7.3,
+      "dur_p50": 321.2
+    },
+    "vehicle_breakdown": {
+      "n": 4874,
+      "sev_mean": 2.77,
+      "sev_p10": 1.15,
+      "sev_p50": 2.53,
+      "sev_p90": 4.87,
+      "dur_p50": 40.7
+    },
+    "vip_movement": {
+      "n": 4,
+      "sev_mean": 2.05,
+      "sev_p10": 0.64,
+      "sev_p50": 1.96,
+      "sev_p90": 3.53,
+      "dur_p50": NaN
+    },
+    "water_logging": {
+      "n": 458,
+      "sev_mean": 3.55,
+      "sev_p10": 1.09,
+      "sev_p50": 3.02,
+      "sev_p90": 6.52,
+      "dur_p50": 1426.7
+    }
+  },
+  "by_cause_hour": {
+    "Debris|late_night": {
+      "n": 7,
+      "sev_mean": 2.52,
+      "sev_p10": 1.25,
+      "sev_p50": 1.95,
+      "sev_p90": 4.51,
+      "dur_p50": 19189.6
+    },
+    "accident|evening": {
+      "n": 24,
+      "sev_mean": 1.86,
+      "sev_p10": 0.22,
+      "sev_p50": 1.78,
+      "sev_p90": 3.52,
+      "dur_p50": 43.8
+    },
+    "accident|late_night": {
+      "n": 161,
+      "sev_mean": 3.07,
+      "sev_p10": 1.23,
+      "sev_p50": 3.6,
+      "sev_p90": 4.13,
+      "dur_p50": 43.3
+    },
+    "accident|midday": {
+      "n": 58,
+      "sev_mean": 2.09,
+      "sev_p10": 0.86,
+      "sev_p50": 1.92,
+      "sev_p90": 3.65,
+      "dur_p50": 46.7
+    },
+    "accident|morning": {
+      "n": 112,
+      "sev_mean": 2.22,
+      "sev_p10": 0.26,
+      "sev_p50": 2.41,
+      "sev_p90": 4.21,
+      "dur_p50": 32.8
+    },
+    "accident|night": {
+      "n": 9,
+      "sev_mean": 2.14,
+      "sev_p10": 0.33,
+      "sev_p50": 2.05,
+      "sev_p90": 4.29,
+      "dur_p50": 55.4
+    },
+    "congestion|late_night": {
+      "n": 39,
+      "sev_mean": 2.19,
+      "sev_p10": 0.65,
+      "sev_p50": 1.84,
+      "sev_p90": 4.52,
+      "dur_p50": 65.5
+    },
+    "congestion|midday": {
+      "n": 12,
+      "sev_mean": 2.92,
+      "sev_p10": 1.92,
+      "sev_p50": 2.46,
+      "sev_p90": 4.63,
+      "dur_p50": 70.4
+    },
+    "congestion|morning": {
+      "n": 82,
+      "sev_mean": 1.79,
+      "sev_p10": 0.78,
+      "sev_p50": 1.43,
+      "sev_p90": 3.4,
+      "dur_p50": 79.9
+    },
+    "construction|evening": {
+      "n": 30,
+      "sev_mean": 3.96,
+      "sev_p10": 1.21,
+      "sev_p50": 3.64,
+      "sev_p90": 5.95,
+      "dur_p50": 422.7
+    },
+    "construction|late_night": {
+      "n": 271,
+      "sev_mean": 2.77,
+      "sev_p10": 0.77,
+      "sev_p50": 2.35,
+      "sev_p90": 6.04,
+      "dur_p50": 1311.7
+    },
+    "construction|midday": {
+      "n": 24,
+      "sev_mean": 2.9,
+      "sev_p10": 0.35,
+      "sev_p50": 2.22,
+      "sev_p90": 5.63,
+      "dur_p50": 485.0
+    },
+    "construction|morning": {
+      "n": 107,
+      "sev_mean": 3.2,
+      "sev_p10": 1.24,
+      "sev_p50": 2.78,
+      "sev_p90": 5.66,
+      "dur_p50": 2945.2
+    },
+    "others|evening": {
+      "n": 12,
+      "sev_mean": 3.69,
+      "sev_p10": 1.26,
+      "sev_p50": 2.75,
+      "sev_p90": 6.73,
+      "dur_p50": 321.1
+    },
+    "others|late_night": {
+      "n": 292,
+      "sev_mean": 3.77,
+      "sev_p10": 1.15,
+      "sev_p50": 3.44,
+      "sev_p90": 6.68,
+      "dur_p50": 255.7
+    },
+    "others|midday": {
+      "n": 103,
+      "sev_mean": 3.55,
+      "sev_p10": 1.1,
+      "sev_p50": 3.07,
+      "sev_p90": 6.8,
+      "dur_p50": 321.8
+    },
+    "others|morning": {
+      "n": 221,
+      "sev_mean": 3.79,
+      "sev_p10": 1.34,
+      "sev_p50": 3.6,
+      "sev_p90": 6.24,
+      "dur_p50": 99.0
+    },
+    "others|night": {
+      "n": 7,
+      "sev_mean": 3.38,
+      "sev_p10": 2.4,
+      "sev_p50": 2.63,
+      "sev_p90": 5.08,
+      "dur_p50": 32.5
+    },
+    "pot_holes|late_night": {
+      "n": 297,
+      "sev_mean": 2.25,
+      "sev_p10": 0.67,
+      "sev_p50": 1.52,
+      "sev_p90": 5.34,
+      "dur_p50": 3175.0
+    },
+    "pot_holes|midday": {
+      "n": 51,
+      "sev_mean": 1.95,
+      "sev_p10": 1.04,
+      "sev_p50": 1.85,
+      "sev_p90": 3.1,
+      "dur_p50": 9.1
+    },
+    "pot_holes|morning": {
+      "n": 188,
+      "sev_mean": 2.06,
+      "sev_p10": 0.72,
+      "sev_p50": 1.3,
+      "sev_p90": 5.1,
+      "dur_p50": 5667.6
+    },
+    "procession|late_night": {
+      "n": 20,
+      "sev_mean": 2.94,
+      "sev_p10": 0.91,
+      "sev_p50": 3.18,
+      "sev_p90": 4.29,
+      "dur_p50": 32.4
+    },
+    "procession|midday": {
+      "n": 12,
+      "sev_mean": 2.56,
+      "sev_p10": 1.4,
+      "sev_p50": 2.53,
+      "sev_p90": 3.87,
+      "dur_p50": 32.8
+    },
+    "procession|morning": {
+      "n": 33,
+      "sev_mean": 2.8,
+      "sev_p10": 0.8,
+      "sev_p50": 2.53,
+      "sev_p90": 4.99,
+      "dur_p50": 81.4
+    },
+    "protest|late_night": {
+      "n": 8,
+      "sev_mean": 3.0,
+      "sev_p10": 1.58,
+      "sev_p50": 3.25,
+      "sev_p90": 3.99,
+      "dur_p50": 18.2
+    },
+    "protest|morning": {
+      "n": 5,
+      "sev_mean": 1.87,
+      "sev_p10": 0.62,
+      "sev_p50": 1.77,
+      "sev_p90": 3.17,
+      "dur_p50": NaN
+    },
+    "public_event|evening": {
+      "n": 5,
+      "sev_mean": 1.34,
+      "sev_p10": 0.82,
+      "sev_p50": 1.1,
+      "sev_p90": 2.09,
+      "dur_p50": NaN
+    },
+    "public_event|late_night": {
+      "n": 14,
+      "sev_mean": 2.51,
+      "sev_p10": 0.87,
+      "sev_p50": 2.52,
+      "sev_p90": 4.15,
+      "dur_p50": NaN
+    },
+    "public_event|midday": {
+      "n": 10,
+      "sev_mean": 2.12,
+      "sev_p10": 0.96,
+      "sev_p50": 2.03,
+      "sev_p90": 3.68,
+      "dur_p50": NaN
+    },
+    "public_event|morning": {
+      "n": 16,
+      "sev_mean": 2.69,
+      "sev_p10": 0.62,
+      "sev_p50": 2.63,
+      "sev_p90": 4.29,
+      "dur_p50": NaN
+    },
+    "road_conditions|late_night": {
+      "n": 96,
+      "sev_mean": 3.27,
+      "sev_p10": 1.02,
+      "sev_p50": 2.91,
+      "sev_p90": 6.28,
+      "dur_p50": 1346.6
+    },
+    "road_conditions|midday": {
+      "n": 20,
+      "sev_mean": 3.77,
+      "sev_p10": 1.41,
+      "sev_p50": 3.64,
+      "sev_p90": 5.92,
+      "dur_p50": 6142.5
+    },
+    "road_conditions|morning": {
+      "n": 51,
+      "sev_mean": 3.69,
+      "sev_p10": 1.21,
+      "sev_p50": 3.09,
+      "sev_p90": 6.92,
+      "dur_p50": 1564.7
+    },
+    "tree_fall|evening": {
+      "n": 7,
+      "sev_mean": 3.08,
+      "sev_p10": 1.01,
+      "sev_p50": 2.67,
+      "sev_p90": 5.41,
+      "dur_p50": 1274.9
+    },
+    "tree_fall|late_night": {
+      "n": 83,
+      "sev_mean": 4.77,
+      "sev_p10": 1.16,
+      "sev_p50": 5.28,
+      "sev_p90": 7.52,
+      "dur_p50": 497.6
+    },
+    "tree_fall|midday": {
+      "n": 115,
+      "sev_mean": 4.09,
+      "sev_p10": 1.05,
+      "sev_p50": 3.9,
+      "sev_p90": 7.36,
+      "dur_p50": 412.2
+    },
+    "tree_fall|morning": {
+      "n": 73,
+      "sev_mean": 3.93,
+      "sev_p10": 1.3,
+      "sev_p50": 3.38,
+      "sev_p90": 6.83,
+      "dur_p50": 215.3
+    },
+    "tree_fall|night": {
+      "n": 6,
+      "sev_mean": 6.15,
+      "sev_p10": 2.91,
+      "sev_p50": 6.73,
+      "sev_p90": 8.8,
+      "dur_p50": 141.6
+    },
+    "vehicle_breakdown|evening": {
+      "n": 67,
+      "sev_mean": 2.32,
+      "sev_p10": 0.96,
+      "sev_p50": 2.12,
+      "sev_p90": 4.3,
+      "dur_p50": 43.5
+    },
+    "vehicle_breakdown|late_night": {
+      "n": 2126,
+      "sev_mean": 2.72,
+      "sev_p10": 1.16,
+      "sev_p50": 2.51,
+      "sev_p90": 4.69,
+      "dur_p50": 39.7
+    },
+    "vehicle_breakdown|midday": {
+      "n": 767,
+      "sev_mean": 2.71,
+      "sev_p10": 1.06,
+      "sev_p50": 2.43,
+      "sev_p90": 4.99,
+      "dur_p50": 36.0
+    },
+    "vehicle_breakdown|morning": {
+      "n": 1833,
+      "sev_mean": 2.86,
+      "sev_p10": 1.18,
+      "sev_p50": 2.61,
+      "sev_p90": 5.0,
+      "dur_p50": 42.4
+    },
+    "vehicle_breakdown|night": {
+      "n": 81,
+      "sev_mean": 2.91,
+      "sev_p10": 1.52,
+      "sev_p50": 2.61,
+      "sev_p90": 5.14,
+      "dur_p50": 58.9
+    },
+    "water_logging|late_night": {
+      "n": 93,
+      "sev_mean": 3.4,
+      "sev_p10": 0.94,
+      "sev_p50": 2.66,
+      "sev_p90": 6.69,
+      "dur_p50": 4694.0
+    },
+    "water_logging|midday": {
+      "n": 217,
+      "sev_mean": 3.46,
+      "sev_p10": 0.95,
+      "sev_p50": 3.02,
+      "sev_p90": 6.32,
+      "dur_p50": 1416.4
+    },
+    "water_logging|morning": {
+      "n": 143,
+      "sev_mean": 3.8,
+      "sev_p10": 1.36,
+      "sev_p50": 3.41,
+      "sev_p90": 6.55,
+      "dur_p50": 693.9
+    }
+  },
+  "notes": [
+    "severity_observed is derived from outcomes, not hand-tuned on the live score.",
+    "by_cause.n is the evidence count the simulator uses to gate confidence."
+  ]
+}
